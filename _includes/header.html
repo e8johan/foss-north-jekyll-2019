@@ -1,0 +1,50 @@
+{%- assign default_paths = site.pages | map: "path" -%}
+{%- assign page_paths = site.header_pages | default: default_paths -%}
+
+
+<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="http://foss-north.se/"><img src="images/brand-logo.png" /></a>
+        
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+        
+            {%- assign sorted_pages = site.pages | sort: "order" -%}
+            {%- for this_page in sorted_pages %}
+                {%- assign this_page = site.pages | where: "path", path | first -%}
+                {%- if this_page.title -%}
+                {%- if this_page.order > 0 -%}
+                        {%- if page.url == this_page.url -%}
+                            <li class="nav-item active">
+                        {%- else -%}
+                            <li class="nav-item">
+                        {%- endif -%}
+                        <a class="nav-link" href="{{ this_page.url | relative_url }}">{{ this_page.title | escape }}
+                        {%- if page.url == this_page.url -%}
+                            <span class="sr-only">(current)</span>
+                        {%- endif -%}
+                        </a>
+                    </li>
+                {%- endif -%}
+                {%- endif -%}
+            {%- endfor -%}
+        </ul>
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Other Events
+                </a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="http://foss-gbg.se/">foss-gbg</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="http://foss-north.se/2016/">foss-north 2016</a>
+                    <a class="dropdown-item" href="http://foss-north.se/2017/">foss-north 2017</a>
+                    <a class="dropdown-item" href="http://foss-north.se/2018/">foss-north 2018</a>
+                </div>
+            </li>
+        </ul>
+    </div>
+</nav>

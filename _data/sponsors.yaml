@@ -1,0 +1,19 @@
+- name: Elastic
+  short: elastic
+  url: https://www.elastic.co/
+  level: base
+
+- name: Business Region Göteborg
+  short: brg
+  url: https://www.businessregiongoteborg.se/
+  level: partner
+  
+- name: Swedsoft
+  short: swedsoft
+  url: https://www.swedsoft.se/
+  level: partner
+
+- name: Datatjej
+  short: datatjej
+  url: https://datatjej.se/
+  level: partner

@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+{{ content }}
+
+{%- for speaker in site.data.speakers -%}
+    <a name="{{ speaker.short }}" class="offsetanchor"></a>
+    <div class="row speakerrow">
+        <div class="col-md-3">
+            <div class="speaker-photo"><img class="sp-image" src="images/speaker-{{ speaker.short }}.png" alt="{{ speaker.name }}"></div>
+        </div>
+        <div class="col-md-9">
+            <div class="name">{{ speaker.name }}</div>
+            <div class="title">{{ speaker.title }}</div>
+            {%- if speaker.links.size > 0 -%}
+                <div class="links">
+                    {%- for link in speaker.links -%}
+                        <a href="{{ link.url }}">{{ link.title }}</a>
+                        {%- unless forloop.last -%}
+                            &nbsp;-&nbsp;
+                        {%- endunless -%}
+                    {%- endfor -%}
+                </div>
+            {%- endif -%}
+
+            {%- for abstracttext in speaker.abstract -%}
+            <div class="abstract">
+                {{ abstracttext }}
+            </div>
+            {%- endfor -%}
+
+            {%- for biotext in speaker.bio -%}
+            <div class="bio">
+                {{ biotext }}
+            </div>
+            {%- endfor -%}
+        </div>
+    </div>
+    
+{%- endfor -%}
+
