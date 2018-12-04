@@ -17,3 +17,13 @@
   short: datatjej
   url: https://datatjej.se/
   level: partner
+
+- name: Semcon
+  short: semcon
+  url: https://semcon.com/sv/
+  level: base
+
+- name: OP5
+  short: op5
+  url: https://www.op5.com
+  level: silver

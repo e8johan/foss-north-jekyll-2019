@@ -64,11 +64,26 @@ layout: default
 {%- if silver_sponsors.size > 0 -%}
     <h2>Silver Sponsors</h2>
 
+    {%- assign loopindex = 0 -%}
     {%- for sponsor in silver_sponsors -%}
-        <div>
-            <a href="{{ sponsor.url }}">{{ sponsor.name | escape }}</a>
-        </div>
+        {%- assign rowcount = loopindex | modulo: 3 -%}
+        {%- if rowcount == 0 -%}
+            <div class="row sponsorrow">
+        {%- endif -%}
+        
+            <div class="col-md-4">
+                <a href="{{ sponsor.url }}"><img class="sponsor" src="images/sponsor-{{ sponsor.short }}.png" alt="{{ sponsor.name | escape }}"></a>
+            </div>
+        
+        {%- if rowcount == 2 -%}
+            </div>
+        {%- endif -%}
+        
+        {%- assign loopindex = loopindex | plus: 1 -%}
     {%- endfor -%}
+    {%- if rowcount != 2 -%}
+        </div>
+    {%- endif -%}
 {%- endif -%}
 
 {%- if base_sponsors.size > 0 -%}
