@@ -22,7 +22,11 @@ Thank you for contributing!
 <a name="projects" class="offsetanchor"></a>
 ## Call for Projects
 
-We have something special planned! Stay tuned!
+Are you representing a project who is looking for a venue to do something? It can be a workshop, a development sprint, an install-fest or something completely different - you decide! If so, we would love for you to be a part of our <b>community day</b> which is held on <b>April 7</b>.
+
+You bring the contents - we provide the venue. All the organizing participants gets tickets for the conference on April 8-9.
+
+If you want to be part of this? Contact johan@foss-gbg.se for details.
 
 <a name="sponsors" class="offsetanchor"></a>
 ## Call for Sponsors
