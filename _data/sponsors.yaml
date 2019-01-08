@@ -32,3 +32,8 @@
   short: sylog-datarespons
   url: https://www.sylog.se/
   level: silver
+
+- name: Open Invention Network
+  short: oin
+  url: https://www.openinventionnetwork.com/
+  level: partner
