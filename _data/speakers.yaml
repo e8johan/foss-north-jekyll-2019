@@ -1,6 +1,3 @@
-#- name: "Mirko Bohm"
-  #short: mbohm
-  #title: "patents"
 #- name: "Jan Jongboon"
   #short: jjongboon
   #title: "mbed"
@@ -34,3 +31,13 @@
   title: "Open Source, Standards Development and Patents in Europe"
   abstract: "The standards community develops specifications. The FOSS community implements standards. The FOSS community also develops industry standards. How does this the interaction function? And is it working well? How do policy makers interact with the FOSS community to set safety standards and other requirements? What is the relationship between standards-essential patents and FOSS? What comes first, specification or implementation? Where does innovation happen, and what is the platform to develop consensus on technical standards in a market segment? Based on research work at TU Berlin and for the Joint Research Center of the European Commission and the work of the Open Invention Network to protect key FOSS projects from patent litigation, the presentation will discuss the current state of the debate at the European and international level, and provide an outlook on how the roles and functions of standards-development organisations and the wider FOSS community are converging. No live demos, unfortunately."
   bio: "Free and Open Source Software contributor. Founder, Endocode. Director, Linux System Definition, Open Invention Network. KDE contributor since 1997 (including several years on the KDE e.V. board). Visiting lecturer and researcher at the Technical University of Berlin. FSFE Team Germany. Qt-certified specialist and trainer. Openforum Academy fellow. Berlin, Germany."
+- name: "Mikey Ariel"
+  short: mariel
+  title: "Docs or it didn't happen!"
+  abstract: 
+    - "If you ever skimmed through a README, tried to follow a quickstart tutorial, attempted to decipher an error message, or typed '--help' in your console, congratulations -- you have encountered documentation!"
+    - "Long gone are the days of massive books with never-ending stories about your software. Today's users are smarter and less patient, which means that we no longer need to document *all the things*, as long as what we do document is clear, concise, helpful, and accessible. And that's where the real work starts."
+    - "Documentation requires some attitude adjustment, since prose doesn't neatly compile into binaries as code does. But Don't Panic(tm)! No matter what your role is, you can apply a few key principles from the technical writing world to make your project more docs-friendly, and therefore more user- and contributor-friendly."
+  bio:
+    - 'Mikey (a.k.a. ""That Docs Lady"") spent the better part of the last 10 years documenting super-geeky enterprise software, most recently for OpenStack Platform at Red Hat. She is also on the global core team for Write the Docs, Django Girls alumni, co-author of the Happiness Packets project, and documentation coach for open-source projects.'
+    - 'Since joining the open-source family in 2013, Mikey has been giving talks and writing articles about docs, DevOps, and community. She regularly runs documentation workshops, hackfests, and help desks at developer conferences. Owner of the sporadic-erratic blog <a href="http://docsideofthemoon.com">docsideofthemoon.com</a>, lover of music, dance, traveling, and coffee.'
