@@ -37,3 +37,8 @@
   short: oin
   url: https://www.openinventionnetwork.com/
   level: partner
+
+- name: Endian Technologies
+  short: endian
+  url: https://endian.se/
+  level: base
