@@ -1,0 +1,78 @@
+- name: KDE
+  short: kde
+  url: https://www.kde.org/
+  venue: sylog
+  venuename: Sylog
+  description: T.B.D.
+  address: 
+    - Sylog Väst AB
+    - Theres Svenssons Gata 10 
+    - 417 55 Göteborg
+  lon: 11.945472
+  lat: 57.706903
+  
+- name: Zephyr
+  short: zephyr
+  url: https://www.zephyrproject.org/
+  venue: endian
+  venuename: Endian
+  description: T.B.D.
+  address:
+    - Endian Technologies AB
+    - Flöjelbergsgatan 11
+    - 431 37 Mölndal
+  lon: 12.01522
+  lat: 57.67107
+
+- name: FreeBSD
+  short: freebsd
+  url: https://www.freebsd.org/
+  venue: b3
+  venuename: B3 Consulting
+  description: T.B.D.
+  address:
+    - B3 Consulting Göteborg
+    - Kämpegatan 6
+    - 411 04 Göteborg
+  lon: 11.97361
+  lat: 57.71509
+
+- name: Debian
+  short: debian
+  venue: kuro
+  venuename: Kuro Studio
+  url: https://www.debian.org/
+  #links:
+    #- { title: "Announcement", url: "http://announce.se" }
+    #- { title: "Wiki page", url: "http://wiki.se" }
+  description: T.B.D.
+  address: 
+    - Kuro Studio AB
+    - Kyrkogatan 15
+    - 411 15 Göteborg
+  lon: 11.96639
+  lat: 57.70496
+
+- name: Rust
+  short: rust
+  url: https://www.rust-lang.org/
+  venue: hiq
+  venuename: HiQ
+  description: T.B.D.
+  address: 
+    - HiQ
+    - Östra Hamngatan 24
+    - 411 09 Göteborg
+  lon: 11.96746
+  lat: 57.70844
+
+- name: Chalmers Robotförening
+  short: crf
+  url: https://chalmersrobotics.se
+  description: T.B.D.
+  address:
+    - Chalmers Robotförening
+    - Sven Hultins gata 8
+    - 412 58 Göteborg
+  lon: 11.97724
+  lat: 57.68654

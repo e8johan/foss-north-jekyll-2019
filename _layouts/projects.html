@@ -1,0 +1,77 @@
+---
+layout: default
+---
+
+<style>
+    img.olTileImage {
+        max-width: none;
+    }
+</style>
+
+<h2>Map</h2>
+
+<div id="mapdiv" style="height: 600px;"></div>
+
+<div class="bodybreak">&nbsp;</div>
+
+<h2>Projects</h2>
+
+{%- for project in site.data.projects -%}
+    <a name="{{ project.short }}" class="offsetanchor"></a>
+    <div class="row speakerrow">
+        <div class="col-md-3">
+            <div class="speaker-photo"><a href="{{ project.url }}"><img class="sp-image" src="images/project-{{ project.short }}.png" alt="{{ project.name }}"></a></div>
+            {%- if project.venue.size > 0 -%}
+            <div class="speaker-photo"><a href="{{ project.url }}"><img class="sp-image" src="images/venue-{{ project.short }}.png" alt="{{ project.venuename }}"></a></div>
+            {%- endif -%}
+        </div>
+        <div class="col-md-9">
+            <div class="name"><a class="projectlink" href="{{ project.url }}">{{ project.name | escape }}</a></div>
+
+            {%- if project.links.size > 0 -%}
+                <div class="links">
+                    {%- for link in project.links -%}
+                        <a href="{{ link.url }}">{{ link.title }}</a>
+                        {%- unless forloop.last -%}
+                            &nbsp;-&nbsp;
+                        {%- endunless -%}
+                    {%- endfor -%}
+                </div>
+            {%- endif -%}
+            
+            {%- for descr in project.description -%}
+            <div class="abstract">
+                {{ descr | escape }}
+            </div>
+            {%- endfor -%}
+            <div class="bio">
+            {%- for adr in project.address-%}
+                {{ adr | escape }}<br />
+            {%- endfor -%}
+            </div>
+        </div>
+    </div>
+{%- endfor -%}
+
+<script src="http://www.openlayers.org/api/OpenLayers.js"></script>
+<script>
+    map = new OpenLayers.Map("mapdiv");
+    map.addLayer(new OpenLayers.Layer.OSM());
+    
+    var markers = new OpenLayers.Layer.Markers( "Markers" );
+    map.addLayer(markers);
+    
+    var projection = new OpenLayers.Projection("EPSG:4326");
+    var icon = new OpenLayers.Icon("images/brand-logo.png");
+    var marker;
+    
+    {%- for project in site.data.projects -%}
+        /* Start of loop */
+        marker = new OpenLayers.Marker(new OpenLayers.LonLat( {{ project.lon }}, {{ project.lat }} ).transform(projection, map.getProjectionObject()), icon.clone());
+        marker.events.register("click", marker, function() { location.hash = "#{{ project.short }}"; });
+        markers.addMarker(marker);
+        /* End of loop */
+    {%- endfor -%}
+
+    map.setCenter(new OpenLayers.LonLat(11.9766646, 57.689343).transform(projection, map.getProjectionObject()), 13);
+</script>
