@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Code of Conduct"
-order: 60
+order: 100
 ---
 
 # Code of Conduct
