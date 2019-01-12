@@ -42,3 +42,8 @@
   short: endian
   url: https://endian.se/
   level: base
+
+- name: Collabora
+  short: collabora
+  url: https://www.collabora.com/
+  level: base
