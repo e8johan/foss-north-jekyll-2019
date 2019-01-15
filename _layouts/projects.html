@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{{ content }}
+
 <style>
     img.olTileImage {
         max-width: none;
@@ -22,7 +24,8 @@ layout: default
         <div class="col-md-3">
             <div class="speaker-photo"><a href="{{ project.url }}"><img class="sp-image" src="images/project-{{ project.short }}.png" alt="{{ project.name }}"></a></div>
             {%- if project.venue.size > 0 -%}
-            <div class="speaker-photo"><a href="{{ project.url }}"><img class="sp-image" src="images/venue-{{ project.short }}.png" alt="{{ project.venuename }}"></a></div>
+            &nbsp;
+            <div class="speaker-photo"><a href="{{ project.venueurl }}"><img class="sp-image" src="images/venue-{{ project.venue }}.png" alt="{{ project.venuename }}"></a></div>
             {%- endif -%}
         </div>
         <div class="col-md-9">

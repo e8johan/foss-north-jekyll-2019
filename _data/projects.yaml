@@ -3,6 +3,7 @@
   url: https://www.kde.org/
   venue: sylog
   venuename: Sylog
+  venueurl: https://www.sylog.se/
   description: T.B.D.
   address: 
     - Sylog Väst AB
@@ -16,6 +17,7 @@
   url: https://www.zephyrproject.org/
   venue: endian
   venuename: Endian
+  venueurl: https://endian.se/
   description: T.B.D.
   address:
     - Endian Technologies AB
@@ -27,9 +29,12 @@
 - name: FreeBSD
   short: freebsd
   url: https://www.freebsd.org/
+  links: 
+    - { title: "About", url: "https://www.freebsdfoundation.org/about/project/" }
   venue: b3
   venuename: B3 Consulting
-  description: T.B.D.
+  venueurl: https://b3.se/
+  description: Developer meetup and hacking, presentation of the FreeBSD project and what we do.  Possibility to try it out and install on own device.
   address:
     - B3 Consulting Göteborg
     - Kämpegatan 6
@@ -41,6 +46,7 @@
   short: debian
   venue: kuro
   venuename: Kuro Studio
+  venueurl: http://kurostudio.com/
   url: https://www.debian.org/
   #links:
     #- { title: "Announcement", url: "http://announce.se" }
