@@ -1,6 +1,3 @@
-#- name: "Jan Jongboon"
-  #short: jjongboon
-  #title: "mbed"
 - name: "Michael Kerrisk"
   short: mkerrisk
   title: "Understanding user namespaces"
@@ -41,3 +38,10 @@
   bio:
     - 'Mikey (a.k.a. ""That Docs Lady"") spent the better part of the last 10 years documenting super-geeky enterprise software, most recently for OpenStack Platform at Red Hat. She is also on the global core team for Write the Docs, Django Girls alumni, co-author of the Happiness Packets project, and documentation coach for open-source projects.'
     - 'Since joining the open-source family in 2013, Mikey has been giving talks and writing articles about docs, DevOps, and community. She regularly runs documentation workshops, hackfests, and help desks at developer conferences. Owner of the sporadic-erratic blog <a href="http://docsideofthemoon.com">docsideofthemoon.com</a>, lover of music, dance, traveling, and coffee.'
+- name: "Jan Jongboon"
+  short: jjongboon
+  title: "17,000 contributions in 32K RAM"
+  abstract:
+    - "The future of computing is tiny. Most computers are not desktop, laptops, tablets or mobile phones, but microcontrollers. Small, integrated systems with a few KB of RAM. And their presence is ever growing. Last year alone 31 billion (!) of them were shipped, up from 23 billion in 2015. And they get more capable every day. A modern embedded system has threads, can run Python or JavaScript, and use machine learning models. Why are you not developing for them yet?"
+    - "In this talk you'll learn that microcontrollers are not scary, that there's no magic involved, and that working in very constrained systems is actually very fun! You'll also learn a thing or two about getting things to run for years on a battery, try that with a web app. In this talk we'll use Mbed OS, the largest open source Real-Time Operating System for microcontrollers. In 2018 over 17,000 commits were landed in the project, it has over 400 unique contributors, and is licensed under the Apache 2.0 license."
+  bio: "Jan Jongboom is an embedded engineer and Developer Evangelist IoT at Arm, always looking for ways to connect more devices to the internet. He has shipped devices, worked on the latest network tech, climbed upon buildings to install gateways and there's a monument in San Francisco with his name on it. Before he joined the IoT bandwagon he was a core contributor to Firefox OS, and he wrote hundreds of patches to various open source projects."
