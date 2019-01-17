@@ -38,8 +38,8 @@
   bio:
     - 'Mikey (a.k.a. ""That Docs Lady"") spent the better part of the last 10 years documenting super-geeky enterprise software, most recently for OpenStack Platform at Red Hat. She is also on the global core team for Write the Docs, Django Girls alumni, co-author of the Happiness Packets project, and documentation coach for open-source projects.'
     - 'Since joining the open-source family in 2013, Mikey has been giving talks and writing articles about docs, DevOps, and community. She regularly runs documentation workshops, hackfests, and help desks at developer conferences. Owner of the sporadic-erratic blog <a href="http://docsideofthemoon.com">docsideofthemoon.com</a>, lover of music, dance, traveling, and coffee.'
-- name: "Jan Jongboon"
-  short: jjongboon
+- name: "Jan Jongboom"
+  short: jjongboom
   title: "17,000 contributions in 32K RAM"
   abstract:
     - "The future of computing is tiny. Most computers are not desktop, laptops, tablets or mobile phones, but microcontrollers. Small, integrated systems with a few KB of RAM. And their presence is ever growing. Last year alone 31 billion (!) of them were shipped, up from 23 billion in 2015. And they get more capable every day. A modern embedded system has threads, can run Python or JavaScript, and use machine learning models. Why are you not developing for them yet?"
