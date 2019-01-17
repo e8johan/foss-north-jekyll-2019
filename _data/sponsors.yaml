@@ -47,3 +47,8 @@
   short: collabora
   url: https://www.collabora.com/
   level: base
+
+- name: Mullvad
+  short: mullvad
+  url: https://mullvad.net
+  level: base
