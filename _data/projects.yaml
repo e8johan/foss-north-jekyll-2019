@@ -34,7 +34,9 @@
   venue: b3
   venuename: B3 Consulting
   venueurl: https://b3.se/
-  description: Developer meetup and hacking, presentation of the FreeBSD project and what we do.  Possibility to try it out and install on own device.
+  description: 
+    - "Developer meetup and hacking, presentation of the FreeBSD project and what we do."
+    - "Possibility to try it out and install on own device."
   address:
     - B3 Consulting Göteborg
     - Kämpegatan 6
@@ -48,10 +50,17 @@
   venuename: Kuro Studio
   venueurl: http://kurostudio.com/
   url: https://www.debian.org/
-  #links:
-    #- { title: "Announcement", url: "http://announce.se" }
-    #- { title: "Wiki page", url: "http://wiki.se" }
-  description: T.B.D.
+  links:
+    - { title: "Announcement", url: "https://wiki.debian.org/BSP/2019/04/se/Gothenburg" }
+    - { title: "BSP", url: "http://wiki.debian.org/BSP" }
+    - { title: "RC Bug squashing", url: "http://people.debian.org/~vorlon/rc-bugsquashing.html" }
+    - { title: "RC", url: "http://bugs.debian.org/release-critical/" }
+  description:
+    - "We are happy to invite you to a  Debian Bug Squashing Party in Gothenburg, Sweden, on Sunday April 7th 2019."
+    - "Team meetings/sprints during the BSP are welcome, just let me know in advance so we can organize appropriate rooms."
+    - "A short registration on the wiki page is required to ease the organization of the event. On the same page you will find information regarding transport, (sponsored) accommodation and other useful things."
+    - "Even if you are not a Debian Developer or Contributor yet, but interested in fixing bugs and helping Debian, don't hesitate to come!"
+    - "There will be enough people around to sponsor your uploads. More information about BSPs and RC-Bugsquashing can be found at the wiki via the links above."
   address: 
     - Kuro Studio AB
     - Kyrkogatan 15
