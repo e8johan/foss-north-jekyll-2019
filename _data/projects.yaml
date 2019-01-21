@@ -1,6 +1,8 @@
 - name: KDE
   short: kde
   url: https://www.kde.org/
+  links:
+    - { title: "Announcement", url: "https://community.kde.org/Promo/Events/FossNorth" }
   venue: sylog
   venuename: Sylog
   venueurl: https://www.sylog.se/
