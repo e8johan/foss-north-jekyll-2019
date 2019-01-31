@@ -1,7 +1,7 @@
 ---
 layout: projects
 title: Community Day
-order: -60
+order: 60
 ---
 
 <h1>Community Day</h1>
