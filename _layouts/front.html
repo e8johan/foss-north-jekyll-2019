@@ -69,6 +69,19 @@ layout: default
         {%- assign rowcount = loopindex | modulo: 3 -%}
         {%- if rowcount == 0 -%}
             <div class="row sponsorrow">
+        
+            {%- assign rowindex = loopindex | divided_by: 3 -%}
+            {%- assign rowsize = silver_sponsors.size | divided_by: 3 -%}
+            {%- if rowindex == rowsize -%}
+                {%- assign rowoffset = silver_sponsors.size | modulo: 3 -%}
+                {%- if rowoffset == 1 -%}
+                    <div class="col-md-4">&nbsp;</div>
+                {%- endif -%}
+                {%- if rowoffset == 2 -%}
+                    <div class="col-md-2">&nbsp;</div>
+                {%- endif -%}
+            {%- endif -%}
+
         {%- endif -%}
         
             <div class="col-md-4">
@@ -95,6 +108,19 @@ layout: default
         {%- assign rowcount = loopindex | modulo: 3 -%}
         {%- if rowcount == 0 -%}
             <div class="row sponsorrow">
+            
+            {%- assign rowindex = loopindex | divided_by: 3 -%}
+            {%- assign rowsize = base_sponsors.size | divided_by: 3 -%}
+            {%- if rowindex == rowsize -%}
+                {%- assign rowoffset = base_sponsors.size | modulo: 3 -%}
+                {%- if rowoffset == 1 -%}
+                    <div class="col-md-4">&nbsp;</div>
+                {%- endif -%}
+                {%- if rowoffset == 2 -%}
+                    <div class="col-md-2">&nbsp;</div>
+                {%- endif -%}
+            {%- endif -%}
+            
         {%- endif -%}
         
             <div class="col-md-4">
