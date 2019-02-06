@@ -57,3 +57,8 @@
   short: mozilla
   url: https://developer.mozilla.org/en-US/
   level: base
+
+- name: T&M Hansson IT
+  short: tmhansson
+  url: https://www.hanssonit.se/nextcloud-vm/
+  level: base
