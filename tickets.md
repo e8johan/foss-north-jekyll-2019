@@ -34,6 +34,14 @@ Tickets are sold in the following three categories:
 
 <div class="bodybreak">&nbsp;</div>
 
+<h2>Stay another day?</h2>
+
+<img src="images/sponsor-swedsoft.png" />
+
+Our partner organization Swedsoft is having their spring meeting in Gothenburg. Among the speakers you find Victoria Van Camp (CTO, SKF), Caroline Nordin (Global Product Manager, SKF). Visit Swedsoft's event page for <a href="https://www.swedsoft.se/event/varmote19-best-of-swedsoft-friends/">more information</a>.
+
+<div class="bodybreak">&nbsp;</div>
+
 <h2>Get Your Tickets Here!</h2>
 
 <div class="bodytext">
