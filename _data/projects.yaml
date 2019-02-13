@@ -32,6 +32,7 @@
   short: freebsd
   url: https://www.freebsd.org/
   links: 
+    - { title: "Announcement", url: "https://wiki.freebsd.org/DevSummit/201904" }
     - { title: "About", url: "https://www.freebsdfoundation.org/about/project/" }
   venue: b3
   venuename: B3 Consulting
@@ -97,3 +98,16 @@
     - 412 58 Göteborg
   lon: 11.97724
   lat: 57.68654
+
+- name: UI Workshop
+  short: ui
+  description: T.B.D.
+  venue: intunio
+  venuename: Intunio
+  venueurl: https://www.intunio.se/
+  address:
+    - Intunio AB
+    - Kyrkogatan 15
+    - 411 15 Göteborg
+  lon: 11.96639
+  lat: 57.70496
