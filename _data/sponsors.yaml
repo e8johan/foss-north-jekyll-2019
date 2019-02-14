@@ -67,3 +67,8 @@
   short: edument
   url: https://www.edument.se/
   level: base
+
+- name: Redpill Linpro
+  short: redpill-linpro
+  url: https://www.redpill-linpro.com/
+  level: base
