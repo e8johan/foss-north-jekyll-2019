@@ -10,8 +10,6 @@ order: 10
 
 <h1>What, When, and Where</h1>
 
-<b>Early bird tickets are available until February 15!</b>
-
 <div class="row">
     <div class="col-md-4">
         <div class="toptitle">Community Day</div>

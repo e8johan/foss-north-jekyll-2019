@@ -8,8 +8,6 @@ order: 40
 
 Tickets are sold via <a href="https://foss-north-2019.eventbrite.com">eventbrite</a>, either through the event page, or by picking the tickets from the list below.
 
-<b>Early birds is available until February 15!</b>
-
 Tickets bought before March 25 include lunch and coffee. Tickets are still sold until the day before the event, but does not include catering. We have ordered more food than we've sold tickets on March 25, so we hope to be able to provide food to all participants, but we cannot guarantee this due to lead times ordering supplies.
 
 Tickets are sold in the following three categories:
