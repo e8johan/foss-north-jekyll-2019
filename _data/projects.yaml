@@ -20,7 +20,11 @@
   venue: endian
   venuename: Endian
   venueurl: https://endian.se/
-  description: T.B.D.
+  description:
+    - "Welcome to the FOSS North 2019 Community Day Zephyr™ RTOS IoT Hackathon, hosted by Endian! Zephyr is a small, scalable real-time operating system for IoT devices that has caused quite a stir in the open-source community lately."
+    - "The event is a full-day event and will start with an introduction to Zephyr and the development environment. Together we will take on a challenge and practice some the core features of Zephyr. No prior experience of Zephyr is required but some basic experience with writing and compiling embedded C programs will be helpful."
+    - 'For more information see: <a href="https://www.endian.se/zephyr-hackathon.html">https://www.endian.se/zephyr-hackathon.html</a>'
+    - "Note: This event is free of charge, but registration is mandatory! Slots will be VERY limited so you are encouraged to RSVP as soon as possible!"
   address:
     - Endian Technologies AB
     - Flöjelbergsgatan 11
