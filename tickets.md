@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tickets
-order: 40
+order: 15
 ---
 
 <h1>Tickets</h1>

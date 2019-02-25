@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Training Day
-order: 70
+order: 30
 ---
 
 <h1>Training Day</h1>

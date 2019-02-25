@@ -1,0 +1,15 @@
+{% assign speakers=site.data.speakers | where: "slot", include.slot %}
+{% if speakers.size == 0 %}
+    <div class="talkspeaker">T.B.D.</div>
+{% endif %}
+{% if speakers.size > 0 %}
+    {% for speaker in speakers %}
+        <a href="speakers-and-talks.html#{{ speaker.short }}">
+        <div class="talktitle">{{ speaker.title }}</div>
+        <div class="talkspeaker">{{ speaker.name }}</div>
+        </a>
+        {% if forloop.last == false %}
+            &nbsp;
+        {% endif %}
+    {% endfor %}
+{% endif %}

@@ -1,5 +1,6 @@
 - name: "Michael Kerrisk"
   short: mkerrisk
+  slot: mon4
   title: "Understanding user namespaces"
   #links:
     #- { title: "Video", url: "http://video.com" }
@@ -8,6 +9,7 @@
   bio: "Michael Kerrisk is the author of the acclaimed book, &ldquo;The Linux Programming Interface&rdquo; (<a href='http://man7.org/tlpi/'>http://man7.org/tlpi/</a>), a guide and reference for system programming on Linux and UNIX. He contributes to the Linux kernel primarily via documentation, review, and testing of new kernel-user-space interfaces. He has contributed to the Linux man-pages project (<a href='http://www.kernel.org/doc/man-pages/'>http://www.kernel.org/doc/man-pages/</a>) since 2000, and been the project maintainer since 2004. Michael is a trainer and consultant, living in Munich, Germany."
 - name: "Anna Ossowski"
   short: aossowski
+  slot: mon8
   title: "Flourishing FLOSS: Making Your Project Successful"
   abstract:
     - You maintain an Open Source project with great code? Yet your project isn’t succeeding in the ways you want? Maybe you’re struggling with funding or documentation? Or you just can’t find new contributors and you’re drowning in issues and pull requests? Open Source is made up of many components and we are often better-trained in methods for writing good code, than in methods for succeeding in the other dimensions we want our project to grow. In this talk we’ll explore the different components of an Open Source project and how they work together. After this talk you’ll be well-equipped with a ideas and strategies for growing, cultivating, and nourishing your Open Source project. 
@@ -17,6 +19,7 @@
   bio: Anna loves working at the intersection of tech and people and currently works for Elastic in developer relations. She is a director of the Python Software Foundation, PyCon US staff member, Django Girls organizer, and group leader of the PyLadies Remote group. In her free time she loves speaking at conferences and mentoring future speakers. Anna is very passionate about diversity and community outreach and wants to encourage more women to learn programming because it’s awesome!
 - name: "Fredrik Söderblom"
   short: fsoderblom
+  slot: tue2
   title: "Modern Email Security"
   abstract: In times when a major infection vector is email, it is relevant to use existing protection mechanisms (SPF, DKIM, DMARC, DNSSEC, STARTTLS etc) to protect your company and your company's customers. This presentaion by Fredrik Söderblom from StoredSafe will show how you can protect incoming and outgoing emails with relatively simple means, as well as run you through emerging techniques such as MTA-STS, TLS-RPT, ARC etc.
   bio:
@@ -25,11 +28,13 @@
     - He has designed and implemented various network perimeter security solutions in Europe and the United States, as well as performed numerous security audits.
 - name: "Mirko Boehm"
   short: mboehm
+  slot: mon1
   title: "Open Source, Standards Development and Patents in Europe"
   abstract: "The standards community develops specifications. The FOSS community implements standards. The FOSS community also develops industry standards. How does this the interaction function? And is it working well? How do policy makers interact with the FOSS community to set safety standards and other requirements? What is the relationship between standards-essential patents and FOSS? What comes first, specification or implementation? Where does innovation happen, and what is the platform to develop consensus on technical standards in a market segment? Based on research work at TU Berlin and for the Joint Research Center of the European Commission and the work of the Open Invention Network to protect key FOSS projects from patent litigation, the presentation will discuss the current state of the debate at the European and international level, and provide an outlook on how the roles and functions of standards-development organisations and the wider FOSS community are converging. No live demos, unfortunately."
   bio: "Free and Open Source Software contributor. Founder, Endocode. Director, Linux System Definition, Open Invention Network. KDE contributor since 1997 (including several years on the KDE e.V. board). Visiting lecturer and researcher at the Technical University of Berlin. FSFE Team Germany. Qt-certified specialist and trainer. Openforum Academy fellow. Berlin, Germany."
 - name: "Mikey Ariel"
   short: mariel
+  slot: mon5
   title: "Docs or it didn't happen!"
   abstract: 
     - "If you ever skimmed through a README, tried to follow a quickstart tutorial, attempted to decipher an error message, or typed '--help' in your console, congratulations -- you have encountered documentation!"
@@ -40,8 +45,40 @@
     - 'Since joining the open-source family in 2013, Mikey has been giving talks and writing articles about docs, DevOps, and community. She regularly runs documentation workshops, hackfests, and help desks at developer conferences. Owner of the sporadic-erratic blog <a href="http://docsideofthemoon.com">docsideofthemoon.com</a>, lover of music, dance, traveling, and coffee.'
 - name: "Jan Jongboom"
   short: jjongboom
+  slot: tue3
   title: "17,000 contributions in 32K RAM"
   abstract:
     - "The future of computing is tiny. Most computers are not desktop, laptops, tablets or mobile phones, but microcontrollers. Small, integrated systems with a few KB of RAM. And their presence is ever growing. Last year alone 31 billion (!) of them were shipped, up from 23 billion in 2015. And they get more capable every day. A modern embedded system has threads, can run Python or JavaScript, and use machine learning models. Why are you not developing for them yet?"
     - "In this talk you'll learn that microcontrollers are not scary, that there's no magic involved, and that working in very constrained systems is actually very fun! You'll also learn a thing or two about getting things to run for years on a battery, try that with a web app. In this talk we'll use Mbed OS, the largest open source Real-Time Operating System for microcontrollers. In 2018 over 17,000 commits were landed in the project, it has over 400 unique contributors, and is licensed under the Apache 2.0 license."
   bio: "Jan Jongboom is an embedded engineer and Developer Evangelist IoT at Arm, always looking for ways to connect more devices to the internet. He has shipped devices, worked on the latest network tech, climbed upon buildings to install gateways and there's a monument in San Francisco with his name on it. Before he joined the IoT bandwagon he was a core contributor to Firefox OS, and he wrote hundreds of patches to various open source projects."
+- name: "Anders Roxell"
+  short: aroxell
+  slot: mon12
+  title: "Continuously Integrating the Upstream Linux Kernel on Hardware"
+  abstract:
+    - "The aim of this project is to continuously test one of the biggest open source projects on hardware and in qemu. The project started to continuously run functional tests on TS kernels. Tests that gets run are kselftest, ltp, and libhugetlbfs. Running tests on actual hardware isn’t as easy as you may think. Failing tests, hanging tests or flaky tests are some of the issues. The project that was going to run tests on real hardware is called Linux Kernel Functional Testing (LKFT). LKFT uses infrastructure software like Jenkins, LAVA, SQUAD and bugzilla for building, testing, displaying and tracking regressions of the LTS, mainline and next kernels."
+    - "LKFT was created in early summer 2017, and the project has helped to enable LTS kernels being supported for 6 years. KernelCI is also used to build and boot testing, and today kernelCI also implements functional tests."
+  bio:
+    - "Anders hates running tests and therefore he loves automating them. He has been working with Linux kernels for telecommunication (e.g. base stations, media gateways) as well as various drivers and RTOS’s for automotive systems (e.g. engine-, gearbox-platforms). He has also experience from NFV/Openstack."
+- name: "Kalyan Dikshit"
+  short: kdikshit
+  slot: tue4
+  title: Common Voice - Building Multilingual Voice Datasets
+  abstract:
+    - "Voice recognition technology is revolutionising the way we interact with machines, but the currently available systems are expensive and proprietary. Common Voice is a massive global database of donated voices that lets anyone quickly and easily train voice-enabled apps in potentially every language. And offer developers and technologists multilingual datasets to train machine-learning models which enable them to build a wave of innovative products and services."
+  bio:
+    - 'Kalyan Dikshit is a Mozilla Tech Speaker, Representative, and part of its Hyderabad Community, India. He spoke at the Internet Freedom Festival 2017, 2018, Still Hacking Anyway (SHA), All Systems Go! 2017, Shift DEV 2018. He recently gave a talk at “Full Stack Fest 2018” happened in Barcelona. As a volunteer he localizes software for Mozilla, Tor, Orfox, Orbot, GlobaLeaks, Signal and OONIProbe. He currently also devotes his time with ICRISAT where he works, with drones to develop and trial techniques, to connect farmers. Founder of the “JAVA 1.X Hyderabad Chapter” & Co-founder of “Duck Duck Go Hyderabad Chapter”. «Developer by Day, Hacker by Night»'
+- name: "Chris Lamb"
+  short: clamb
+  slot: tue7
+  title: "What can free software learn from classical music?"
+  abstract:
+    - 'Programming & composition share countless traits, including being puzzle-based methods of self-expression as well as the contradictions of being artistic yet technical, collaborative yet individualistic and both can never be "perfected".'
+    - 'It should therefore not be too surprising that that the old world of classical music has many things in common with the free software movement of today: not only did composers of the past freely remix the works of others every subsequent performance and recording day could be considered a "derived work"...'
+    - "But what can we learn today from the wild world of pre-copyright classical music? What mistakes did they make? What did classical music — as performed & composed in the past — appear to get right that we could emulate?"
+    - "In this provocative and non-technical talk you will not only learn about how the lack of copyright enforcement or efficient distribution of music affected what was commissioned, composed & performed, you will also discover possible parallels to modern concepts of patents and trademarks."
+    - "In addition, we will explore how the classical world was subject to many social factors we would easily recognise today including Imposter Syndrome, issues around diversity, the role of money, patronage, hoarding and standardisation… as well as ever-present psychological factors of fame, dogma and how limitations continue to shape our world."
+  bio:
+    - "Currently Project Leader of the Debian GNU/Linux project and a member of Board of Directors for the Open Source Initiative, Chris is a freelance computer programmer, author of dozens of free-software projects and contributor to 100s of others."
+    - "He has been official Debian Developer since 2008 and is currently highly active in the Reproducible Builds sub-project. In his spare time he is an avid classical musician."
+    - "Chris has spoken at numerous conferences including LinuxCon China, HKOSCon, linux.conf.au, DjangoCon Europe, LibrePlanet, OSCAL, All Things Open, SCALE, Software Freedom Kosovo, #freenode Live, DebConf, FOSS'ASIA, as well as given guest lectures at New York University Tandon School of Engineering and Cambridge University."
