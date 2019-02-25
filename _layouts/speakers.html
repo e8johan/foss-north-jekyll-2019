@@ -4,7 +4,8 @@ layout: default
 
 {{ content }}
 
-{%- for speaker in site.data.speakers -%}
+{% assign sorted_speakers = site.data.speakers | sort:'lastname' %}
+{%- for speaker in sorted_speakers -%}
     <a name="{{ speaker.short }}" class="offsetanchor"></a>
     <div class="row speakerrow">
         <div class="col-md-3">

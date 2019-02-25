@@ -1,6 +1,7 @@
 - name: "Michael Kerrisk"
   short: mkerrisk
   slot: mon4
+  lastname: "Kerrisk"
   title: "Understanding user namespaces"
   #links:
     #- { title: "Video", url: "http://video.com" }
@@ -10,6 +11,7 @@
 - name: "Anna Ossowski"
   short: aossowski
   slot: mon8
+  lastname: "Ossowski"
   title: "Flourishing FLOSS: Making Your Project Successful"
   abstract:
     - You maintain an Open Source project with great code? Yet your project isn’t succeeding in the ways you want? Maybe you’re struggling with funding or documentation? Or you just can’t find new contributors and you’re drowning in issues and pull requests? Open Source is made up of many components and we are often better-trained in methods for writing good code, than in methods for succeeding in the other dimensions we want our project to grow. In this talk we’ll explore the different components of an Open Source project and how they work together. After this talk you’ll be well-equipped with a ideas and strategies for growing, cultivating, and nourishing your Open Source project. 
@@ -20,6 +22,7 @@
 - name: "Fredrik Söderblom"
   short: fsoderblom
   slot: tue2
+  lastname: "Soederblom"
   title: "Modern Email Security"
   abstract: In times when a major infection vector is email, it is relevant to use existing protection mechanisms (SPF, DKIM, DMARC, DNSSEC, STARTTLS etc) to protect your company and your company's customers. This presentaion by Fredrik Söderblom from StoredSafe will show how you can protect incoming and outgoing emails with relatively simple means, as well as run you through emerging techniques such as MTA-STS, TLS-RPT, ARC etc.
   bio:
@@ -29,12 +32,14 @@
 - name: "Mirko Boehm"
   short: mboehm
   slot: mon1
+  lastname: "Boehm"
   title: "Open Source, Standards Development and Patents in Europe"
   abstract: "The standards community develops specifications. The FOSS community implements standards. The FOSS community also develops industry standards. How does this the interaction function? And is it working well? How do policy makers interact with the FOSS community to set safety standards and other requirements? What is the relationship between standards-essential patents and FOSS? What comes first, specification or implementation? Where does innovation happen, and what is the platform to develop consensus on technical standards in a market segment? Based on research work at TU Berlin and for the Joint Research Center of the European Commission and the work of the Open Invention Network to protect key FOSS projects from patent litigation, the presentation will discuss the current state of the debate at the European and international level, and provide an outlook on how the roles and functions of standards-development organisations and the wider FOSS community are converging. No live demos, unfortunately."
   bio: "Free and Open Source Software contributor. Founder, Endocode. Director, Linux System Definition, Open Invention Network. KDE contributor since 1997 (including several years on the KDE e.V. board). Visiting lecturer and researcher at the Technical University of Berlin. FSFE Team Germany. Qt-certified specialist and trainer. Openforum Academy fellow. Berlin, Germany."
 - name: "Mikey Ariel"
   short: mariel
   slot: mon5
+  lastname: "Ariel"
   title: "Docs or it didn't happen!"
   abstract: 
     - "If you ever skimmed through a README, tried to follow a quickstart tutorial, attempted to decipher an error message, or typed '--help' in your console, congratulations -- you have encountered documentation!"
@@ -46,6 +51,7 @@
 - name: "Jan Jongboom"
   short: jjongboom
   slot: tue3
+  lastname: "Jongboom"
   title: "17,000 contributions in 32K RAM"
   abstract:
     - "The future of computing is tiny. Most computers are not desktop, laptops, tablets or mobile phones, but microcontrollers. Small, integrated systems with a few KB of RAM. And their presence is ever growing. Last year alone 31 billion (!) of them were shipped, up from 23 billion in 2015. And they get more capable every day. A modern embedded system has threads, can run Python or JavaScript, and use machine learning models. Why are you not developing for them yet?"
@@ -54,6 +60,7 @@
 - name: "Anders Roxell"
   short: aroxell
   slot: mon12
+  lastname: "Roxell"
   title: "Continuously Integrating the Upstream Linux Kernel on Hardware"
   abstract:
     - "The aim of this project is to continuously test one of the biggest open source projects on hardware and in qemu. The project started to continuously run functional tests on TS kernels. Tests that gets run are kselftest, ltp, and libhugetlbfs. Running tests on actual hardware isn’t as easy as you may think. Failing tests, hanging tests or flaky tests are some of the issues. The project that was going to run tests on real hardware is called Linux Kernel Functional Testing (LKFT). LKFT uses infrastructure software like Jenkins, LAVA, SQUAD and bugzilla for building, testing, displaying and tracking regressions of the LTS, mainline and next kernels."
@@ -63,6 +70,7 @@
 - name: "Kalyan Dikshit"
   short: kdikshit
   slot: tue4
+  lastname: "Dikshit"
   title: Common Voice - Building Multilingual Voice Datasets
   abstract:
     - "Voice recognition technology is revolutionising the way we interact with machines, but the currently available systems are expensive and proprietary. Common Voice is a massive global database of donated voices that lets anyone quickly and easily train voice-enabled apps in potentially every language. And offer developers and technologists multilingual datasets to train machine-learning models which enable them to build a wave of innovative products and services."
@@ -71,6 +79,7 @@
 - name: "Chris Lamb"
   short: clamb
   slot: tue7
+  lastname: "Lamb"
   title: "What can free software learn from classical music?"
   abstract:
     - 'Programming & composition share countless traits, including being puzzle-based methods of self-expression as well as the contradictions of being artistic yet technical, collaborative yet individualistic and both can never be "perfected".'
@@ -85,6 +94,7 @@
 - name: "Kristoffer Grönlund"
   short: "kgronlund"
   slot: mon3
+  lastname: "Groenlund"
   title: "Let's Lisp like it's 1959"
   abstract:
     - "One of my favorite papers in computer science is the original LISP paper by John McCarthy. Written in 1959, it describes something mind-bending: The interpreter for a language in the language that it interprets. If you understand this paper, you understand how computation works."

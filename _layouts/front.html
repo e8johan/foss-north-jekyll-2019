@@ -14,7 +14,8 @@ layout: default
 
 <div>
 {%- assign loopindex = 0 -%}
-{%- for speaker in site.data.speakers -%}
+{% assign sorted_speakers = site.data.speakers | sort:'lastname' %}
+{%- for speaker in sorted_speakers -%}
     {%- assign rowcount = loopindex | modulo: 3 -%}
     {%- if rowcount == 0 -%}
         <div class="row">
