@@ -13,10 +13,8 @@ A great conference is made by great contents. For great contents we need great s
 <a name="papers" class="offsetanchor"></a>
 ## Call for Papers
 
-The Call for Papers is open until <b>February 24</b> and the final speakers are contacted on <b>March 10</b>. We are happy to sponsor travel expenses and accomodation, but cannot pay for your time. Please visit the <a href="https://goo.gl/forms/Dt4NzzHmK3dzV6eg2">Call for Papers questionnaire</a> to make your contribution.
- 
-The call for paper form consists of a title for the talk, an abstract, name and biography of the speaker, and preferred slot length (25 or 50 minutes, including Q&A). We also reemburse travel costs if needed. Since we have a budget to work with, we ask for the approximate cost that you want us to reemburse.
- 
+The Call for Papers is closed and the final speakers will be announced on <b>March 10</b>.
+
 Thank you for contributing! 
 
 <a name="projects" class="offsetanchor"></a>
