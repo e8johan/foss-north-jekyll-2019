@@ -101,3 +101,13 @@
     - "A few years ago, I decided to implement the interpreter described in the paper, and this project turned out to be surprisingly popular. In this presentation, I'll show how to implement the original LISP interpreter in C, and together we will marvel at its elegance."
   bio:
     - "Kristoffer lärde sig programmera på en Commodore 64 med drömmar om att en dag bli spelutvecklare. Efter att ha levt drömmen på Massive i Malmö i ett antal år växte intresset för fri mjukvara, och numera jobbar han på SUSE där han hackar på diverse projekt relaterade till High Availability."
+- name: "Zeeshan Ali"
+  short: "zali"
+  slot: tue8
+  lastname: "Ali"
+  title: "Open Source Geolocation: The story & challenges ahead"
+  abstract:
+    - "In this talk, Zeeshan will share his story of development of Geoclue, the open source geolocation service for Linux. He'll talk about the challenges and setbacks faced during these years in developing a framework designed to provide a simple API to application developers while also addressing the privacy issues related to giving out users' location to random applications. Also presented will be the current big problems faced by the project and possible solutions to them."
+  bio:
+    - "Developer, helicopter pilot and cat lover."
+    - "Zeeshan is a Senior Software Engineer at Red Hat, based in Berlin. He is a veteran GNOME developer, with many years of C and Vala experience. More recently he's been in love with Rust language. He has a private pilot license for helicopters and currently learning to fly planes. He has a very loving and lovely cat."
