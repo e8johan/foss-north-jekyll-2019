@@ -123,3 +123,31 @@
     - "I'm Google Developer Expert who works as a Developer Evangelist at Auth0. At Auth0 we're trying to make authentication and identification as easy as possible, while still keeping it secure."
     - "After office hours I like to play around with the web-audio API, and other \"exotic\" browser API's. One of my side projects is a library to add audio effects to an audio input using JavaScript."
     - "When I'm not behind a computer, you can me find playing the guitar, having a beer at a concert, or trying to snap the next perfect picture."
+- name: "Adam Dunkels"
+  short: "adunkels"
+  slot: tue13
+  lastname: "Dunkels"
+  title: "Saving the Day by Stack Smashing a Hundred Streetlights before Sunrise"
+  abstract:
+    - "Hours before an important customer demo, one hundred streetlights are running a pre-release software version with a critical bug that prevents them from working properly. What's worse, the bug also causes the remote-update mechanism to fail. Fortunately, a recent update had introduced an off-by-one bug that allowed us to create a stack smash attack that could inject a patch into each light and fix the lamps just in time before sunrise."
+  bio:
+    - "Adam Dunkels is the CEO and co-founder Thingsquare and an award-winning Internet of Things pioneer, named a top 35 innovator in the world by the MIT Technology Review for having created the minimal wireless networking protocols that allow almost any device to communicate over the Internet. Most of today's Internet of Things products are powered by software he created."
+- name: "Claes Jakobsson"
+  short: "cjakobsson"
+  slot: mon7
+  lastname: "Jakobsson"
+  title: "The O in IoT should stand for Open"
+  abstract:
+    - "During the past years we’ve been developing the Botani.st platform for urban farming. Since we don’t want our customers to end up with a plastic brick when we go bust one design philosophy has been to open as much as possible from protocols to hardware to software. And since we rely on so much open source in the project itself it’s not more than fair."
+    - "This talk will cover how we’ve designed the platform and some of the choices needed to balance openess, price and usability."
+  bio:
+    - "Claes has been hacking and talking open source the past 20 years and co-founded and runs a few user groups such as FOSS-Sthlm and Stockholm PostgreSQL User Group. He spends his day hacking on various things over at Trustly but not-so-secretly loves embedded and hardware thus starting the Botani.st project in 2014-ish to solve the mystery of dying plants."
+- name: "Daniel Stenberg"
+  short: "dstenberg"
+  slot: tue11
+  lastname: "Stenberg"
+  title: "Writing safe and secure code"
+  abstract:
+    - "With experiences from the curl project, Daniel talks about how to write safe and secure code to run in every portable device on the planet."
+  bio:
+    - "Daniel is the lead developer of curl since over twenty years. One of the most widely used software components in the world."

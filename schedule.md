@@ -9,7 +9,7 @@ order: 20
 This is the provisional program for foss-north 2019.<br />
 All sessions include time for Q&A and to move between rooms.
 
-[&nbsp;<a href="#monday">Monday</a>&nbsp;-&nbsp;<a href="#tuesday">Tuesday</a>&nbsp;]
+[&nbsp;<a href="community-day.html">Sunday</a>&nbsp;-&nbsp;<a href="#monday">Monday</a>&nbsp;-&nbsp;<a href="#tuesday">Tuesday</a>&nbsp;-&nbsp;<a href="training-day.html">Wednesday</a>&nbsp;]
 
 <a name="monday" class="offsetanchor"></a>
 ## Monday
