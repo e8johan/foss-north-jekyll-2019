@@ -1,4 +1,5 @@
 {% assign speakers=site.data.speakers | where: "slot", include.slot %}
+    <a name="{{ include.slot }}" class="offsetanchor"></a>
 {% if speakers.size == 0 %}
     <div class="talkspeaker">T.B.D.</div>
 {% endif %}

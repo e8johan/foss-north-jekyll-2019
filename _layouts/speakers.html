@@ -14,16 +14,15 @@ layout: default
         <div class="col-md-9">
             <div class="name">{{ speaker.name }}</div>
             <div class="title">{{ speaker.title }}</div>
-            {%- if speaker.links.size > 0 -%}
-                <div class="links">
+            <div class="links">
+                {%- if speaker.links.size > 0 -%}
                     {%- for link in speaker.links -%}
                         <a href="{{ link.url }}">{{ link.title }}</a>
-                        {%- unless forloop.last -%}
-                            &nbsp;-&nbsp;
-                        {%- endunless -%}
+                        &nbsp;-&nbsp;
                     {%- endfor -%}
-                </div>
-            {%- endif -%}
+                {%- endif -%}
+                <a href="schedule.html#{{ speaker.slot }}">Talk Slot</a>
+            </div>
 
             {%- for abstracttext in speaker.abstract -%}
             <div class="abstract">

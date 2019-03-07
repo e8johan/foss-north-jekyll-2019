@@ -204,7 +204,7 @@
     - "Many organizations are going nowadays through transformation processes at scale toward agility. Agustin will explain why embracing Open Source is a great way to increase the chances any organization has to succeed in such complex processes, which key challenges would be easier to face and why."
     - "The talk targets those developers and managers interested in Open Source and Agile/DevOps at scale."
   bio:
-    - "Agustin Benito Bethencourt runs http://www.toscalix.com. He works as a consultant at Codethink Ltd."
+    - 'Agustín is currently Principal Consultant at Codethink Ltd. He has 20+ years of experience in different management and executive roles, 15+ of them in the software industry, specially in distributed, Open Source software organizations. This experience allows him nowadays to help automotive and embedded companies to improve processes and practices associated to design, develop, but specially to deliver and maintain software products, systems, technologies and tools. Agustín has been contributing to a variety of FLOSS community projects, like KDE. Further information about him is available at <a href="http://www.toscalix.com">http://www.toscalix.com</a>.'
 - name: "Alberto Mardegan"
   short: "amardegan"
   slot: mon16
@@ -224,3 +224,63 @@
     - "Is it just a buzzword that forces you to stand up during your morning meetings? No! Agility for the developer, the organization and the business are all parts of getting a workplace that is motivating and continually learning. During this time the technical part of agile will be presented, and how it can affect the organization, product and people. Some hands-on ideas on how to increase your organizations technical agility are also promised."
   bio:
     - "David has experience with rendering techniques for lighting, programming language development and front end architecture for web applications, but is now working as a technical agile coach. He’s main focus is to help team to continuously improve their work situation through technology, ways of working and self organization."
+- name: "Daniel Hansson"
+  short: "dhansson"
+  slot: mon11
+  lastname: "Hansson"
+  title: "The NextCloud VM"
+  abstact:
+    - "TBD"
+  bio:
+    - "TBD"
+- name: "Carol Chen"
+  short: "cchen"
+  slot: mon11
+  lastname: "Chen"
+  title: "Manage a community like conducting an orchestra - with a lot of hand waving"
+  abstact:
+    - "Have you attended an orchestral performance and wondered what it is exactly that conductors do besides waving their arms in the air? Most of the value that the conductor (community manager) brings to the orchestra (community) is carried out before the performance (behind the scenes). In this session, I will share my experiences in orchestras and open source communities big and small across different countries. How do you take care of the different types of contributors/players and bring out their best? What happens when they have differences in opinion on how to collaborate? How do you make the community welcoming and inclusive especially for people with different backgrounds and who may not speak your (programming) language? Join me on a musical journey through some of the common (and perhaps not so common) dissonances of community orchestration and their possible resolutions!"
+  bio:
+    - "Carol Chen is a Community Architect at Red Hat, supporting several upstream communities such as Ansible and ManageIQ. She has been actively involved in open source communities while working for Jolla and Nokia previously. In addition, she also has experiences in software development/integration in her 12 years in the mobile industry. On a personal note, Carol plays the Timpani in an orchestra in Tampere, Finland, where she now calls home."
+- name: "Molly de Blanc"
+  short: "mdeblanc"
+  slot: tue5
+  lastname: "Blanc"
+  title: "Insecure connections: Love and mental health in our digital lives"
+  abstact:
+    - "The lens through which we view--and know--what it means to love, to be ourselves, and to connect with others is now backed by microchips and millions of lines of code. As our lives continue to become increasingly managed by our devices, we need to ask ourselves what we're gaining--and what we're giving up--by allowing technology into the spaces that make our hearts ache and that keep us up at night."
+    - "This talk will weave together two narratives essential to many people: health and love. It will examine the ways in which both of these topics have become entwined with computing, what that means for us as individuals, and what that means for our individual and societal user freedoms."
+  bio:
+    - "Molly de Blanc is a free software activist. She works at the Free Software Foundation as the campaigns manager, organizing and educating around free software issues. She serves as a director on the Open Source Initiative board of directors and is a contributor to the Debian project."
+- name: "Magnus Hagander"
+  short: "mhagander"
+  slot: mon2
+  lastname: "Hagander"
+  title: "PostgreSQL gotchas for app developers"
+  abstact:
+    - "Some things when it comes to working with databases are obvious to everybody. Other things are hidden from everybody. Yet some can be obvious to an experienced DBA, but come as a big surprise to application developers, and these can often be different between different databases."
+    - "In this talk I'll go through some of the common mistakes I've seen in applications built against PostgreSQL that made perfect sense, yet were suboptimal or failed."
+  bio:
+    - "Magnus Hagander is a member of the PostgreSQL Core Team and a developer and code committer in the PostgreSQL Global Development Group."
+    - "Magnus is one of the original developers of the Windows port of PostgreSQL. These days, he mostly works on other parts of the PostgreSQL backend, recently with a focus on security features, monitoring and backup/replication interfaces and tools."
+    - "He is also one of the core members of the postgresql.org infrastructure team, maintaining the servers that power the project, and one of the maintainers of the postgresql.org website. He also contributes to pgAdmin and other related projects."
+    - "He's been a PostgreSQL user since version 6 (with some non-serious use of Postgres 95 before that), and currently serves on the Core Team and as President of the Board for PostgreSQL Europe."
+    - "To pay the bills, he is a PostgreSQL and open source software consultant at Redpill Linpro in Stockholm, Sweden, where he works on consulting, support and training services, as well as custom development work."
+- name: "Kim Lantto"
+  short: "klantto"
+  slot: tue1
+  lastname: "Lantto"
+  title: "Open Data - the City of Gothenburg"
+  abstract: 
+    - "TBD"
+  bio: 
+    - "TBD"
+- name: "Nicolas Maxant"
+  short: "nmaxant"
+  slot: tue1
+  lastname: "Maxant"
+  title: "Open Data - Mimbly"
+  abstract: 
+    - "TBD"
+  bio: 
+    - "TBD"
