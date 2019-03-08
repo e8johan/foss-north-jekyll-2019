@@ -9,6 +9,13 @@
         <div class="talktitle">{{ speaker.title }}</div>
         <div class="talkspeaker">{{ speaker.name }}</div>
         </a>
+        {% if speaker.copresenters.size > 0 %}
+            {% for cp in speaker.copresenters %}
+                <a href="speakers-and-talks.html#{{ cp.short }}">
+                <div class="talkspeaker">{{ cp.name }}</div>
+                </a>
+            {% endfor %}
+        {% endif %}
         {% if forloop.last == false %}
             &nbsp;
         {% endif %}

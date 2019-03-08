@@ -21,7 +21,12 @@ layout: default
                         &nbsp;-&nbsp;
                     {%- endfor -%}
                 {%- endif -%}
+                {%- if speaker.slot -%}
                 <a href="schedule.html#{{ speaker.slot }}">Talk Slot</a>
+                {%- endif -%}
+                {%- if speaker.coslot -%}
+                <a href="schedule.html#{{ speaker.coslot }}">Talk Slot</a>
+                {%- endif -%}
             </div>
 
             {%- for abstracttext in speaker.abstract -%}
