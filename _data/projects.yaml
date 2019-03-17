@@ -93,26 +93,37 @@
   lon: 11.96746
   lat: 57.70844
 
-- name: Chalmers Robotförening
-  short: crf
-  url: https://chalmersrobotics.se
-  description: T.B.D.
-  address:
-    - Chalmers Robotförening
-    - Sven Hultins gata 8
-    - 412 58 Göteborg
-  lon: 11.97724
-  lat: 57.68654
+- name: Gnome
+  short: gnome
+  url: https://www.gnome.org/foundation/
+  links:
+    - { title: "Announcement", url: "https://wiki.gnome.org/Events/foss-north/2019" }
+    - { title: "Prerequisites", url: "https://wiki.gnome.org/Newcomers/BeforeWeBegin" }
+  venue: hiq
+  venuename: HiQ
+  venueurl: https://www.hiq.se/
+  description:
+    - "An introduction to GNOME community, the projects we are developing now and the areas that people with no technical background can contribute to."
+    - "After the introduction we will have the newcomers workshop, which is for developers who want to participate in coding GNOME’s apps.This workshop requires a bit of object oriented programming and git skills."
+  address: 
+    - HiQ
+    - Östra Hamngatan 24
+    - 411 09 Göteborg
+  lon: 11.96746
+  lat: 57.70844
 
-- name: UI Workshop
-  short: ui
-  description: T.B.D.
-  venue: intunio
-  venuename: Intunio
-  venueurl: https://www.intunio.se/
-  address:
-    - Intunio AB
-    - Kyrkogatan 15
-    - 411 15 Göteborg
-  lon: 11.96639
-  lat: 57.70496
+- name: OpenHack
+  short: openhack
+  url: https://www.openhack.io/
+  venue: hiq
+  venuename: HiQ
+  venueurl: https://www.hiq.se/
+  description:
+    - T.B.D.
+  address: 
+    - HiQ
+    - Östra Hamngatan 24
+    - 411 09 Göteborg
+  lon: 11.96746
+  lat: 57.70844
+  
