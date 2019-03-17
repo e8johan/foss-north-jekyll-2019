@@ -323,6 +323,8 @@
     - "Mirza Krak is an embedded Linux solution specialist with seven years of experience in the field and is currently employed by Northern.tech, the commercial entity behind the Mender project."
     - "Mirza was a Mender community member for a couple of years which led to him joining the Mender project full-time in 2018. He is involved in various other open source projects and is a Linux kernel contributor. Mirza's expertise is within Board Support Package development which ranges from hardware bringup, bootloaders, Linux kernel and build systems (Yocto/OE-core). Mirza has spoken at various conferences including Embedded Linux Conference and FOSS-North."
 - name: "Josef Andersson"
+  copresenters: 
+    - { name: "Armin Hafizovic", short: "ahafizovic" }
   short: "jandersson"
   slot: mon14
   lastname: "Andersson"
@@ -333,3 +335,14 @@
     - "In our talk we will present how SVT came to adopt this new Open Source policy, the challenges faced in getting it accepted within the organization, and how it has played out so far. We will also talk about how SVT encourages developers to contribute to Open Source projects and release their own code as Open Source, and why working with Open Source is essential for a public service broadcaster company."
   bio:
     - "Josef is an Open Source enthusiast that has been active in many areas of the Open Source communities. As a translator, code contributor to various projects, with licenses and Open Source strategy, arranging hackathons and as a writer for tech magazines. Currently, Josef is working at SVT as a senior developer, and is also a member of their newly formed Open Source lead team that is working with implementing an Open Source mindset in the organization."
+- name: "Armin Hafizovic"
+  short: "ahafizovic"
+  coslot: mon14
+  lastname: "Hafizovic"
+  title: "Open Source at SVT"
+  abstract:
+    - "Up until recently, the only notable Open Source project stemming from SVT was the very successful CasparCG project, a layer-based real-time compositor used to play out professional graphics, audio and video to multiple outputs. CasparCG has been developed as an Open Source project since 2006."
+    - "Now, as SVT is looking for a broader collaboration with other public broadcasters, we have recently adopted a new Open Source policy that encourages developers to be more active in the Open Source community. Both by contributing to existing projects and by releasing in-house developed projects as Open Source."
+    - "In our talk we will present how SVT came to adopt this new Open Source policy, the challenges faced in getting it accepted within the organization, and how it has played out so far. We will also talk about how SVT encourages developers to contribute to Open Source projects and release their own code as Open Source, and why working with Open Source is essential for a public service broadcaster company."
+  bio:
+    - "Software engineer, Open Source enthusiast and proud dad. Currently working at SVT (his second home) as a Product Owner responsible internally for CasparCG as platform and additional solutions. Community manager for the amazing Open Source project CasparCG. Striving always to release existing or new products as Open Source and he has no plans to change his mindset in that question."
