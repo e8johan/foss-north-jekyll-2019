@@ -127,3 +127,17 @@
   lon: 11.96746
   lat: 57.70844
   
+- name: Chalmers Robotförening
+  short: crf
+  url: https://chalmersrobotics.se
+  description:
+    - "You're welcome to hack at Chalmers Robotics!"
+    - "You will be given a development board NodeMCU (ESP8266) for free and a introduction on how to put MicroPython on it, connect to a WiFi access point and make it do stuff."
+    - "How your creation will end up is up to you."
+    - "15 spots available, light programming experience needed, free, running from 12:00 to 16:00 2019-04-07. Please use the following <a href='https://goo.gl/forms/oya7ayBXfSyf2DTH3'>RSVP</a> to register."
+  address:
+    - Chalmers Robotförening
+    - Sven Hultins gata 8
+    - 412 58 Göteborg
+  lon: 11.97724
+  lat: 57.68654
