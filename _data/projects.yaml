@@ -1,12 +1,22 @@
-- name: KDE
+- name: KDE and gbgcpp
   short: kde
   url: https://www.kde.org/
   links:
     - { title: "Announcement", url: "https://community.kde.org/Promo/Events/FossNorth" }
+    - { title: "gbgcpp", url: "https://www.meetup.com/gbgcpp/" }
   venue: sylog
   venuename: Sylog
   venueurl: https://www.sylog.se/
-  description: T.B.D.
+  description:
+    - "Welcome to the FOSS North 2019 combined KDE + gbgcpp Community Day!"
+    - "What to bring: Laptop"
+    - "Agenda:"
+    - "<strong>13:00</strong> Part 1: How to become a KDE contributor"
+    - "<ul><li>How to setup the KDE developer tool chain (https://community.kde.org/Get_Involved/development)</li><li>How to find features/bugs to work on</li><li>How to submit a patch (https://community.kde.org/Get_Involved/development#Submit_a_patch)</li><li>Discuss KDE best practices (https://community.kde.org/Get_Involved/development#Best_practices_.26_other_useful_information)</li><li>Find an actual KDE feature/bug to do some investigation/work on.</li><li>We will sit in one big group doing MOB programming or split up in smaller groups depending on interest/knowledge level.</li>"
+    - "<strong>~15:30</strong> Coffee break"
+    - "<strong>16:00</strong> Part 2: A gentle introduction to the WebSocket++ library (gbgcpp Meetup: https://www.meetup.com/gbgcpp/)"
+    - "<ul><li>Presentation:</li><ul><li>What is the websocket protocol all about?</li><li>What can WebSocket++ do for me? (https://github.com/zaphoyd/websocketpp)</li><li>Show me a minimalistic client and server!</li></ul><li>Workshop:</li><ul><li>Let's write a command line based chat client/server using the WebSocket++ library.</li></ul></ul>"
+    - "<strong>~18:00</strong> End"
   address: 
     - Sylog Väst AB
     - Theres Svenssons Gata 10 
