@@ -72,3 +72,8 @@
   short: redpill-linpro
   url: https://www.redpill-linpro.com/
   level: base
+
+- name: Red Hat Ansible
+  short: redhat-ansible
+  url: https://ansible.com
+  level: base
