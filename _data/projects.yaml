@@ -114,7 +114,7 @@
   lon: 11.96746
   lat: 57.70844
 
-- name: Gnome
+- name: GNOME
   short: gnome
   url: https://www.gnome.org/foundation/
   links:
