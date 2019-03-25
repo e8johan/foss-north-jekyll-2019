@@ -147,7 +147,19 @@
     - 411 09 Göteborg
   lon: 11.96746
   lat: 57.70844
-  
+
+- name: Testing & Functional programming
+  short: fp
+  url: https://www.meetup.com/got-lambda/events/259965014/
+  description:
+    - "<ul><li>14:30 - Doors open</li><li>14:50 - Welcome to the event</li><li>15:00 - John Hughes: Building on developers' intuitions</li><li>16:00 - Oskar Wickström: Property-Based Testing The Ugly Parts</li><li>17:00 - Pause and mingle</li><li>17:30 - Alejandro Russo: DraGen, a new generator of random data to use with QuickCheck</li><li>18:30 - More mingling</li><li>19:00 - Thanks for today as we will be joining the rest of the foss-north Community Day for the social event</li></ul>"
+    - "Please <a href='https://www.meetup.com/got-lambda/events/259965014/'>RSVP here</a>."
+  address:
+    - Somewhere at Chalmers
+    - Will be updated via the RSVP
+  lon: 11.97947
+  lat: 57.68969
+
 - name: Chalmers Robotförening
   short: crf
   url: https://chalmersrobotics.se
