@@ -140,7 +140,15 @@
   venuename: HiQ
   venueurl: https://www.hiq.se/
   description:
-    - T.B.D.
+    - "We are happy to invite you to openhack and peace parks workshop."
+    - "<a href='https://www.openhack.io/'>Openhack</a> is a non-profit social company focusing on how open source can be used to solve humanitarian challenges."
+    - "Do you want to play around with Raspberry Pi's, test your tech skills on a real-life problem, or just learn more about wild crime and how it affects the people in the are? Or maybe just learn more about openhack and what we do? If yes, then this meetup is for you!"
+    - "The idea is to create a way to transfer the data from the cameras to the Raspberry Pi's. It is the first step in a bigger project of creating the custom Raspberry sensor mesh network, that would help the protection of animal life by early detection of poachers in protected areas."
+    - "You can find the GitHub repository for the solution <a href='https://github.com/F48i/2018-Stockholm-Save-the-Rhinos'>here</a>."
+    - "Join us to create an open source solution that could help prevent wild crime and support poverty reduction."
+    - "Hope to see you there!"
+    - "Time & Date: 7/4 kl 12.00-15.00"
+    - "Some basic programming experience needed. The spots are limited so please register <a href='https://forms.gle/6i9dui7q4z4jqTKKA'>here</a>."
   address: 
     - HiQ
     - Östra Hamngatan 24
