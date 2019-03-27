@@ -77,3 +77,8 @@
   short: redhat-ansible
   url: https://ansible.com
   level: base
+
+- name: Tieto
+  short: tieto
+  url: https://www.tieto.com/pds
+  level: base
