@@ -10,6 +10,8 @@ Tickets are sold via <a href="https://foss-north-2019.eventbrite.com">eventbrite
 
 Tickets bought before March 25 include lunch and coffee. Tickets are still sold until the day before the event, but does not include catering. We have ordered more food than we've sold tickets on March 25, so we hope to be able to provide food to all participants, but we cannot guarantee this due to lead times ordering supplies.
 
+<b>We are happy to announce that we've been able to increase the catering order so all tickets will include lunch!</b>
+
 Tickets are sold in the following three categories:
 
 <div class="row">
