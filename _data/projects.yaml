@@ -163,8 +163,11 @@
     - "<ul><li>14:30 - Doors open</li><li>14:50 - Welcome to the event</li><li>15:00 - John Hughes: Building on developers' intuitions</li><li>16:00 - Oskar Wickström: Property-Based Testing The Ugly Parts</li><li>17:00 - Pause and mingle</li><li>17:30 - Alejandro Russo: DraGen, a new generator of random data to use with QuickCheck</li><li>18:30 - More mingling</li><li>19:00 - Thanks for today as we will be joining the rest of the foss-north Community Day for the social event</li></ul>"
     - "Please <a href='https://www.meetup.com/got-lambda/events/259965014/'>RSVP here</a>."
   address:
-    - Somewhere at Chalmers
-    - Will be updated via the RSVP
+    - "At Chalmers"
+    - "1. You should locate the main entrace on Rännvägen (<a href='https://maps.chalmers.se/#0766f31b-7165-42e9-8365-007240716e3f'>map</a>)"
+    - "2. Do not enter the main entrance but rather walk over Rännvägen till half way the building and you will find a small stair (5/6 steps), take them."
+    - "3. You will find a door on your left."
+    - "4. You need to call a phone number that you will find in the door, please, call us and we will go down and pick you up."
   lon: 11.97947
   lat: 57.68969
 
