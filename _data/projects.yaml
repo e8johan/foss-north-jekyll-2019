@@ -63,8 +63,17 @@
   venuename: B3 Consulting
   venueurl: https://b3.se/
   description: 
-    - "Developer meetup and hacking, presentation of the FreeBSD project and what we do."
-    - "Possibility to try it out and install on own device."
+    - "Welcome to the FreeBSD Community Day!"
+    - "FreeBSD is a UNIX-like operating system with roots in BSD Unix from Berkely."
+    - "This day is intended for anyone with an interest in FreeBSD, no prior knowledge or expereience is required. You will get a chance to talk to developers, ask questions and try out FreeBSD."
+    - 
+    - "Agenda:"
+    - "<strong>12:00</strong> FreeBSD Community Day Opening"
+    - "<strong>12:15</strong> Introduction to FreeBSD"
+    - "<stromg>12:45</strong> How to contribute to FreeBSD"
+    - "<strong>13:00</strong> Discussions, meet FreeBSD developers and try out FreeBSD"
+    - "<strong>~19:00</strong> End"
+    - "The formal agenda is fairly sort, to give plenty of time for attendees to discuss various topics and to try out FreeBSD."
   address:
     - B3 Consulting Göteborg
     - Kämpegatan 6
