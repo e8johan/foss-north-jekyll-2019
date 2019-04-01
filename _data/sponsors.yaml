@@ -82,3 +82,8 @@
   short: tieto
   url: https://www.tieto.com/pds
   level: base
+
+- name: Luxoft
+  short: luxoft
+  url: https://www.luxoft.com/automotive/
+  level: silver
