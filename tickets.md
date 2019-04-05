@@ -10,7 +10,7 @@ Tickets are sold via <a href="https://foss-north-2019.eventbrite.com">eventbrite
 
 Tickets bought before March 25 include lunch and coffee. Tickets are still sold until the day before the event, but does not include catering. We have ordered more food than we've sold tickets on March 25, so we hope to be able to provide food to all participants, but we cannot guarantee this due to lead times ordering supplies.
 
-<b>We are happy to announce that we've been able to increase the catering order so all tickets will include lunch!</b>
+<b>We are sold out!</b>
 
 Tickets are sold in the following three categories:
 
@@ -44,6 +44,4 @@ Our partner organization Swedsoft is having their spring meeting in Gothenburg o
 
 <h2>Get Your Tickets Here!</h2>
 
-<div class="bodytext">
-    <iframe src="https://eventbrite.com/tickets-external?eid=54750681763&ref=etckt" frameborder="0" height="540" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="https://www.eventbrite.com/">Powered by Eventbrite</a></div>
-</div>
+<b>We are sold out!</b>
