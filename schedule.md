@@ -111,7 +111,7 @@ All sessions include time for Q&A and to move between rooms.
         <tr>
             <td class="scheduletime">13.30&nbsp;-&nbsp;13.45</td>
             <td rowspan="2">{% include speaker-schedule-slot.html slot="mon6" %}</td>
-            <td rowspan="4">{% include speaker-schedule-slot.html slot="mon7" %}</td>
+            <td rowspan="2">{% include speaker-schedule-slot.html slot="mon7" %}</td>
         </tr>
         
         <tr>
@@ -121,6 +121,7 @@ All sessions include time for Q&A and to move between rooms.
         <tr>
             <td class="scheduletime">14.00&nbsp;-&nbsp;14.15</td>
             <td rowspan="2">{% include speaker-schedule-slot.html slot="mon16" %}</td>
+            <td rowspan="2">{% include speaker-schedule-slot.html slot="mon17" %}</td>
         </tr>
         
         <tr>

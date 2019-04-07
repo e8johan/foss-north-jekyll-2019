@@ -134,10 +134,10 @@
     - "Adam Dunkels is the CEO and co-founder Thingsquare and an award-winning Internet of Things pioneer, named a top 35 innovator in the world by the MIT Technology Review for having created the minimal wireless networking protocols that allow almost any device to communicate over the Internet. Most of today's Internet of Things products are powered by software he created."
 - name: "Claes Jakobsson"
   short: "cjakobsson"
-  slot: mon7
   lastname: "Jakobsson"
   title: "The O in IoT should stand for Open"
   abstract:
+    - "<strong>Cancelled due to illness!</strong>"
     - "During the past years we’ve been developing the Botani.st platform for urban farming. Since we don’t want our customers to end up with a plastic brick when we go bust one design philosophy has been to open as much as possible from protocols to hardware to software. And since we rely on so much open source in the project itself it’s not more than fair."
     - "This talk will cover how we’ve designed the platform and some of the choices needed to balance openess, price and usability."
   bio:
@@ -346,3 +346,20 @@
     - "In our talk we will present how SVT came to adopt this new Open Source policy, the challenges faced in getting it accepted within the organization, and how it has played out so far. We will also talk about how SVT encourages developers to contribute to Open Source projects and release their own code as Open Source, and why working with Open Source is essential for a public service broadcaster company."
   bio:
     - "Software engineer, Open Source enthusiast and proud dad. Currently working at SVT (his second home) as a Product Owner responsible internally for CasparCG as platform and additional solutions. Community manager for the amazing Open Source project CasparCG. Striving always to release existing or new products as Open Source and he has no plans to change his mindset in that question."
+- name: "Adriaan de Groot"
+  short: "adegroot"
+  slot: mon7
+  lastname: "Groot"
+  title: "T.B.D."
+  abstract: "T.B.D."
+  bio: 
+    - "A Canadian by birth and a Dutchman by training, I studied mathematics and computer science (PhD. in formal methods from the University of Nijmegen), pretended I could play a lawyer on TV for a while, and now write Free Software full-time. "
+- name: "Ramón Soto Mathiesen"
+  short: "rsotomathiesen"
+  slot: mon17
+  lastname: "Soto Mathiesen"
+  title: "T.B.D."
+  abstract: "T.B.D."
+  bio: 
+    - "Ramón Soto Mathiesen, is a passionate computer scientist, with talent for business, who advocates for: correctness, code quality and high standards, but always with the customer in focus."
+    - "He currently works at SPISE MISU ApS, a company founded by him, which is dedicated mainly to solve the problems arising from the application of the General Data Protection Regulation (GDPR) with a scientific approach (Computer Science and Mathematics)."
