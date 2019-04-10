@@ -8,12 +8,12 @@ order: 10
 <img src="images/logo-with-dates.png" width="40%">
 </p>
 
-<h1>Thanks for a great FOSS-North!</h1>
+<h1>Thanks for a great foss-north!</h1>
 With 9 community events, 33 talks (+ lightning talks!), two training events and more than 250
-visitors, this year's FOSS-North was the largest so far. Videos and slides from the talks will be
+visitors, this year's foss-north was the largest so far. Videos and slides from the talks will be
 available soon.
 
-We hope to see you again at the next FOSS-North, which will be on March 30-31 2020.
+We hope to see you again at the next foss-north, which will be on March 30-31 2020.
 
 <h2>What, When, and Where</h2>
 
