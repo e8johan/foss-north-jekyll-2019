@@ -8,7 +8,14 @@ order: 10
 <img src="images/logo-with-dates.png" width="40%">
 </p>
 
-<h1>What, When, and Where</h1>
+<h1>Thanks for a great FOSS-North!</h1>
+With 9 community events, 33 talks (+ lightning talks!), two training events and more than 250
+visitors, this year's FOSS-North was the largest so far. Videos and slides from the talks will be
+available soon.
+
+We hope to see you again at the next FOSS-North, which will be on March 30-31 2020.
+
+<h2>What, When, and Where</h2>
 
 <div class="row">
     <div class="col-md-4">
@@ -33,4 +40,4 @@ order: 10
 
 foss-north is a free / open source conference covering both software and hardware from the technical perspective. Hosted in Gothenburg between Copenhagen, Oslo, and Stockholm, with an international airport, we provide a meeting place for the Nordic foss communities and will bring together great speakers with a great audience.
 
-The event takes place during **April 7-10** at Chalmers Conference Centre in **Gothenburg, Sweden**.
+The event took place during **April 7-10** at Chalmers Conference Centre in **Gothenburg, Sweden**.
