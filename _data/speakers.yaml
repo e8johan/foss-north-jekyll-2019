@@ -218,6 +218,8 @@
 - name: "Alberto Mardegan"
   short: "amardegan"
   slot: mon16
+  links:
+    - { title: "Slides", url: "slides/Blockchain.pdf" }
   lastname: "Mardegan"
   title: "Using the blockchain to find the next prime number"
   abstract:
