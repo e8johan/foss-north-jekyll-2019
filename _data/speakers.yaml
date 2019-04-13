@@ -1,6 +1,8 @@
 - name: "Michael Kerrisk"
   short: mkerrisk
   slot: mon4
+  links:
+    - { title: "Slides", url: "http://man7.org/conf/fossnorth2019/understanding_user_namespaces-fossnorth-2019-Kerrisk.pdf" }
   lastname: "Kerrisk"
   title: "Understanding user namespaces"
   #links:
@@ -11,6 +13,8 @@
 - name: "Anna Ossowski"
   short: aossowski
   slot: mon8
+  links: 
+    - { title: "Slides", url: "https://speakerdeck.com/ossanna16/flourishing-floss-making-your-project-successful" }
   lastname: "Ossowski"
   title: "Flourishing FLOSS: Making Your Project Successful"
   abstract:
@@ -22,6 +26,8 @@
 - name: "Fredrik Söderblom"
   short: fsoderblom
   slot: tue2
+  links:
+    - { title: "Slides", url: "slides/Modern%20Email%20Security.pdf" }
   lastname: "Soederblom"
   title: "Modern Email Security"
   abstract: In times when a major infection vector is email, it is relevant to use existing protection mechanisms (SPF, DKIM, DMARC, DNSSEC, STARTTLS etc) to protect your company and your company's customers. This presentaion by Fredrik Söderblom from StoredSafe will show how you can protect incoming and outgoing emails with relatively simple means, as well as run you through emerging techniques such as MTA-STS, TLS-RPT, ARC etc.
@@ -51,6 +57,8 @@
 - name: "Jan Jongboom"
   short: jjongboom
   slot: tue3
+  links: 
+    - { title: "Slides", url: "https://www.slideshare.net/janjongboom/17000-contributions-in-32k-ram-foss-north-2019" }
   lastname: "Jongboom"
   title: "17,000 contributions in 32K RAM"
   abstract:
@@ -60,6 +68,8 @@
 - name: "Anders Roxell"
   short: aroxell
   slot: mon12
+  links:
+    - { title: "Slides", url: "slides/Continuously%20Integrating%20the%20Upstream%20Linux%20Kernel%20on%20Hardware.pdf" }
   lastname: "Roxell"
   title: "Continuously Integrating the Upstream Linux Kernel on Hardware"
   abstract:
@@ -227,6 +237,8 @@
 - name: "Daniel Hansson"
   short: "dhansson"
   slot: mon11
+  links: 
+    - { title: "Slides", url: "https://cloud.hanssonit.se/s/sdBzNRfwLFw2CD5" }
   lastname: "Hansson"
   title: "The NextCloud VM"
   abstract:
@@ -313,6 +325,8 @@
 - name: "Mirza Krak"
   short: "mkrak"
   slot: tue12
+  links:
+    - { title: "Slides", url: "https://www.slideshare.net/MenderOTA/integrate-iot-cloud-analytics-and-over-theair-ota-updates-with-google-and-menderio" }
   lastname: "Krak"
   title: "Integrate IoT cloud analytics and over-the-air (OTA) updates with Google and Mender.io"
   abstract:
