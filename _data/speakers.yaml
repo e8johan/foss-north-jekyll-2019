@@ -45,6 +45,8 @@
 - name: "Mikey Ariel"
   short: mariel
   slot: mon5
+  links:
+    - { title: "Slides", url: "https://speakerdeck.com/thatdocslady/docs-or-it-didnt-happen-foss-north-2019" }
   lastname: "Ariel"
   title: "Docs or it didn't happen!"
   abstract: 
@@ -104,6 +106,8 @@
 - name: "Kristoffer Grönlund"
   short: "kgronlund"
   slot: mon3
+  links:
+    - { title: "Slides", url: "https://6510.nu/fossnorth2019/" }
   lastname: "Groenlund"
   title: "Let's Lisp like it's 1959"
   abstract:
@@ -114,6 +118,8 @@
 - name: "Zeeshan Ali"
   short: "zali"
   slot: tue8
+  links:
+    - { title: "Slides", url: "https://zeenix.github.io/reveal.js/os-geolocation.html" }
   lastname: "Ali"
   title: "Open Source Geolocation: The story & challenges ahead"
   abstract:
@@ -164,6 +170,8 @@
 - name: "Chris Simmonds"
   short: "csimmonds"
   slot: tue7
+  links:
+    - { title: "Slides", url: "http://www.slideshare.net/chrissimmonds/reducing-the-boot-time-of-linux-devices" }
   lastname: "Simmonds"
   title: "Reducing the boot time of Linux devices"
   abstract:
@@ -175,6 +183,8 @@
 - name: "Joachim Strömbergson"
   short: "jstrombergson"
   slot: tue6
+  links:
+    - { title: "Slides", url: "slides/Cryptech%202019.pdf" }
   lastname: "Strombergson"
   title: "Cryptech - Open Hardware Security Modules for a safer, open world"
   abstract:
@@ -271,6 +281,8 @@
 - name: "Magnus Hagander"
   short: "mhagander"
   slot: mon2
+  links:
+    - { title: "Slides", url: "https://www.hagander.net/talks/PostgreSQL%20Gotchas%20for%20App%20Developers.pdf" }
   lastname: "Hagander"
   title: "PostgreSQL gotchas for app developers"
   abstract:
@@ -305,6 +317,8 @@
     - { name: "David Halasz", short: "dhalasz" }
   short: "tnovotna"
   slot: mon6
+  links:
+    - { title: "Slides", url: "slides/ComponentBasedDesignAndDev-FossNorth2019.pdf" }
   lastname: "Novotna"
   title: "Component-based Design System and Development"
   abstract:
@@ -317,6 +331,8 @@
   short: "dhalasz"
   lastname: "Halasz"
   coslot: mon6
+  links:
+    - { title: "Slides", url: "slides/ComponentBasedDesignAndDev-FossNorth2019.pdf" }
   title: "Component-based Design System and Development"
   abstract:
     - "How do you bring order to this chaotic web frontend climate fueled by the ever-changing technologies driving it? We - a UX Designer and a Software Engineer - will introduce you to the concept of WebComponents, and how we can achieve order through evolving from Bootstrap to CSS grid based design system."
