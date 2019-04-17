@@ -82,6 +82,8 @@
 - name: "Kalyan Dikshit"
   short: kdikshit
   slot: tue4
+  links:
+    - { title: "Video", url: "https://youtu.be/hugq2PES6VE" }
   lastname: "Dikshit"
   title: Common Voice - Building Multilingual Voice Datasets
   abstract:
@@ -130,6 +132,9 @@
 - name: "Sam Bellen"
   short: "sbellen"
   slot: tue10
+  links:
+    - { title: "Slides", url: "https://jwt.sambego.tech/" }
+    - { title: "Video", url: "https://youtu.be/zhRdv0bJea4" }
   lastname: "Bellen"
   title: "Knock knock, who's there? Authenticating your single page apps using JSON Web Tokens."
   abstract:
@@ -185,6 +190,7 @@
   slot: tue6
   links:
     - { title: "Slides", url: "slides/Cryptech%202019.pdf" }
+    - { title: "Video", url: "https://youtu.be/ruUFPq7Cr_g" }
   lastname: "Strombergson"
   title: "Cryptech - Open Hardware Security Modules for a safer, open world"
   abstract:
