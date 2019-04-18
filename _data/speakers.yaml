@@ -230,6 +230,8 @@
 - name: "Agustín Benito"
   short: "abenito"
   slot: tue9
+  links:
+    - { title: "Slides", url: "slides/Embracing_FLOSS_as_a_shortcut_towards_agility.pdf" }
   lastname: "Benito"
   title: "Embracing FLOSS as a shortcut towards agility"
   abstract:
