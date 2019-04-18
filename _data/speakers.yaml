@@ -3,6 +3,7 @@
   slot: mon4
   links:
     - { title: "Slides", url: "http://man7.org/conf/fossnorth2019/understanding_user_namespaces-fossnorth-2019-Kerrisk.pdf" }
+    - { title: "Video", url: "https://youtu.be/83NOk8pmHi8" }
   lastname: "Kerrisk"
   title: "Understanding user namespaces"
   #links:
@@ -15,6 +16,7 @@
   slot: mon8
   links: 
     - { title: "Slides", url: "https://speakerdeck.com/ossanna16/flourishing-floss-making-your-project-successful" }
+    - { title: "Video", url: "https://youtu.be/Ax0v4i3arrw" }
   lastname: "Ossowski"
   title: "Flourishing FLOSS: Making Your Project Successful"
   abstract:
@@ -75,6 +77,7 @@
   slot: mon12
   links:
     - { title: "Slides", url: "slides/Continuously%20Integrating%20the%20Upstream%20Linux%20Kernel%20on%20Hardware.pdf" }
+    - { title: "Video", url: "https://youtu.be/u7nmiBlOwm0" }
   lastname: "Roxell"
   title: "Continuously Integrating the Upstream Linux Kernel on Hardware"
   abstract:
@@ -244,6 +247,7 @@
   slot: mon16
   links:
     - { title: "Slides", url: "slides/Blockchain.pdf" }
+    - { title: "Video", url: "https://youtu.be/5VcdC3A-ezg" }
   lastname: "Mardegan"
   title: "Using the blockchain to find the next prime number"
   abstract:
@@ -297,6 +301,7 @@
   slot: mon2
   links:
     - { title: "Slides", url: "https://www.hagander.net/talks/PostgreSQL%20Gotchas%20for%20App%20Developers.pdf" }
+    - { title: "Video", url: "https://youtu.be/GhCCs_K7194" }
   lastname: "Hagander"
   title: "PostgreSQL gotchas for app developers"
   abstract:
@@ -333,6 +338,7 @@
   slot: mon6
   links:
     - { title: "Slides", url: "slides/ComponentBasedDesignAndDev-FossNorth2019.pdf" }
+    - { title: "Video", url: "https://youtu.be/fNWe0GQzp28" }
   lastname: "Novotna"
   title: "Component-based Design System and Development"
   abstract:
@@ -347,6 +353,7 @@
   coslot: mon6
   links:
     - { title: "Slides", url: "slides/ComponentBasedDesignAndDev-FossNorth2019.pdf" }
+    - { title: "Video", url: "https://youtu.be/fNWe0GQzp28" }
   title: "Component-based Design System and Development"
   abstract:
     - "How do you bring order to this chaotic web frontend climate fueled by the ever-changing technologies driving it? We - a UX Designer and a Software Engineer - will introduce you to the concept of WebComponents, and how we can achieve order through evolving from Bootstrap to CSS grid based design system."
