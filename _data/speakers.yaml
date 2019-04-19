@@ -52,6 +52,7 @@
   slot: mon5
   links:
     - { title: "Slides", url: "https://speakerdeck.com/thatdocslady/docs-or-it-didnt-happen-foss-north-2019" }
+    - { title: "Video", url: "https://youtu.be/Rq98-audaEc" }
   lastname: "Ariel"
   title: "Docs or it didn't happen!"
   abstract: 
@@ -116,6 +117,7 @@
   slot: mon3
   links:
     - { title: "Slides", url: "https://6510.nu/fossnorth2019/" }
+    - { title: "Video", url: "https://youtu.be/F140RNyuKXg" }
   lastname: "Groenlund"
   title: "Let's Lisp like it's 1959"
   abstract:
@@ -210,6 +212,8 @@
 - name: "Alexander Hultnér"
   short: "ahultner"
   slot: mon15
+  links:
+    - { title: "Slides and More", url: "https://hultner.se/Test-faster-fix-more/" }
   lastname: "Hultner"
   title: "Test faster, fix more"
   abstract:
@@ -222,6 +226,8 @@
 - name: "Niclas Zeising"
   short: "nzeising"
   slot: mon13
+  links:
+    - { title: "Video", url: "https://youtu.be/0Rfr-ztX4JE" }
   lastname: "Zeising"
   title: "FreeBSD is not Linux"
   abstract:
@@ -258,6 +264,8 @@
 - name: "David Sundelius"
   short: "dsundelius"
   slot: mon9
+  links:
+    - { title: "Video", url: "https://youtu.be/YmATY24inVc" }
   lastname: "Sundelius"
   title: "Technical agility - What, why and how?"
   abstract:
@@ -269,6 +277,7 @@
   slot: mon11
   links: 
     - { title: "Slides", url: "https://cloud.hanssonit.se/s/sdBzNRfwLFw2CD5" }
+    - { title: "Video", url: "https://youtu.be/KNXNXMItD2Q" }
   lastname: "Hansson"
   title: "The NextCloud VM"
   abstract:
@@ -280,6 +289,8 @@
 - name: "Carol Chen"
   short: "cchen"
   slot: mon11
+  links:
+    - { title: "Video", url: "https://youtu.be/pIkq6s1kNRQ" }
   lastname: "Chen"
   title: "Manage a community like conducting an orchestra - with a lot of hand waving"
   abstract:
@@ -403,6 +414,8 @@
 - name: "Adriaan de Groot"
   short: "adegroot"
   slot: mon7
+  links:
+    - { title: "Video", url: "https://youtu.be/O6wt87SNX8w" }
   lastname: "Groot"
   title: "Calamares - the Linux System Installer"
   abstract: 
@@ -413,6 +426,8 @@
 - name: "Ramón Soto Mathiesen"
   short: "rsotomathiesen"
   slot: mon17
+  links:
+    - { title: "Video", url: "https://youtu.be/XXx9nDc9L5k" }
   lastname: "Soto Mathiesen"
   title: "Limiting side-effects of applications at compile-time"
   abstract: 
