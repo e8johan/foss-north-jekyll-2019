@@ -6,9 +6,6 @@
     - { title: "Video", url: "https://youtu.be/83NOk8pmHi8" }
   lastname: "Kerrisk"
   title: "Understanding user namespaces"
-  #links:
-    #- { title: "Video", url: "http://video.com" }
-    #- { title: "Slides", url: "http://slides.com" }
   abstract: "User namespaces are at the heart of many interesting technologies that allow isolation and sandboxing of applications, for example running containers without root privileges and sandboxes for web browser plug-ins. In this tutorial, we'll look in detail at user namespaces, building up a basic understanding of what a user namespace is and going on to questions such as: what does being &ldquo;superuser inside a user namespace&rdquo; allow you do (and what does it not allow); what is the relationship between user namespaces and other namespace types (PID, UTS, network, etc.); and what are the security implications of user namespaces? We'll also explore some simple shell commands that can be used for creating and experimenting with user namespaces in order to better understand how they work. Along the way, there will hopefully be time for a few live demos."
   bio: "Michael Kerrisk is the author of the acclaimed book, &ldquo;The Linux Programming Interface&rdquo; (<a href='http://man7.org/tlpi/'>http://man7.org/tlpi/</a>), a guide and reference for system programming on Linux and UNIX. He contributes to the Linux kernel primarily via documentation, review, and testing of new kernel-user-space interfaces. He has contributed to the Linux man-pages project (<a href='http://www.kernel.org/doc/man-pages/'>http://www.kernel.org/doc/man-pages/</a>) since 2000, and been the project maintainer since 2004. Michael is a trainer and consultant, living in Munich, Germany."
 - name: "Anna Ossowski"
@@ -233,6 +230,7 @@
   short: "nzeising"
   slot: mon13
   links:
+    - { title: "Slides", url: "slides/FreeBSD-noanim.pdf" }
     - { title: "Video", url: "https://youtu.be/0Rfr-ztX4JE" }
   lastname: "Zeising"
   title: "FreeBSD is not Linux"
@@ -297,6 +295,7 @@
   short: "cchen"
   slot: mon11
   links:
+    - { title: "Slides", url: "https://www.slideshare.net/cybette/fossnorth-2019-managing-a-community-like-conducting-an-orchestra" }
     - { title: "Video", url: "https://youtu.be/pIkq6s1kNRQ" }
   lastname: "Chen"
   title: "Manage a community like conducting an orchestra - with a lot of hand waving"
@@ -444,3 +443,19 @@
   bio: 
     - "Ramón Soto Mathiesen, is a passionate computer scientist, with talent for business, who advocates for: correctness, code quality and high standards, but always with the customer in focus."
     - "He currently works at SPISE MISU ApS, a company founded by him, which is dedicated mainly to solve the problems arising from the application of the General Data Protection Regulation (GDPR) with a scientific approach (Computer Science and Mathematics)."
+- name: "Lightning Talks"
+  short: "lightning"
+  slot: tuelt
+  links:
+#    - { title: "Video", url: "" }
+    - { title: "Klondike (slides, MMDB)", url: "http://klondike.es/charlas/mmdb/mmdb.odp" }
+    - { title: "Klondike (link, MMDB)", url: "https://github.com/klondi/mmdb" }
+    - { title: "Anders Björklund (slides)", url: "https://boot2podman.github.io/assets/PodmanKubernetes.pdf" }
+    - { title: "Anders Björklund (link)", url: "https://boot2podman.github.io/2019/04/09/boot2podman-kubernetes.html" }
+    - { title: "Dimitris Platis (slides)", url: "https://docs.google.com/presentation/d/1Z1ooEoU2rzBjZSgbA3sfqbDbt-QCwqur_2FUW9NQOP4/edit?usp=drivesdk" }
+    - { title: "Alexander Olofsson (slides)", url: "https://matrix.org/_matrix/media/v1/download/kittenface.studio/MkGHWtdPfuDcPfYpMtlHPOoe" }
+    - { title: "Klondike (slides, OWASP)", url: "https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project" }
+  lastname: "Zzzzzzzz"
+  title: "Register at the registration table for your 10 minutes of fame!"
+  abstract:
+    - "Speakers are in the video, slides above."

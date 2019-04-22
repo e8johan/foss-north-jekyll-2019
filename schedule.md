@@ -261,8 +261,14 @@ All sessions include time for Q&A and to move between rooms.
         
         <tr>
             <td class="scheduletime">12.00&nbsp;-&nbsp;12.15</td>
-            <td colspan="1" rowspan="6" class="talkmajor table-active">Lunch</td>
-            <td colspan="1" rowspan="6"><div class="talktitle">Lightning talks</div><div class="talkspeaker">Register at the registration table for your 10 minutes of fame!</div></td>
+            <td rowspan="6" class="talkmajor table-active">Lunch</td>
+            <td rowspan="6">
+                <a name="tuelt" class="offsetanchor"></a>
+                <a href="speakers-and-talks.html#lightning">
+                <div class="talktitle">Lightning Talks</div>
+                <div class="talkspeaker">Register at the registration table for your 10 minutes of fame!</div>
+                </a>
+            </td>
         </tr>
         
         <tr>
