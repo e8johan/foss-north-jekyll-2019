@@ -447,7 +447,7 @@
   short: "lightning"
   slot: tuelt
   links:
-#    - { title: "Video", url: "" }
+    - { title: "Video", url: "https://youtu.be/3E2AYEX9vT8" }
     - { title: "Klondike (slides, MMDB)", url: "http://klondike.es/charlas/mmdb/mmdb.odp" }
     - { title: "Klondike (link, MMDB)", url: "https://github.com/klondi/mmdb" }
     - { title: "Anders Björklund (slides)", url: "https://boot2podman.github.io/assets/PodmanKubernetes.pdf" }
