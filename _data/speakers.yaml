@@ -67,6 +67,7 @@
   slot: tue3
   links: 
     - { title: "Slides", url: "https://www.slideshare.net/janjongboom/17000-contributions-in-32k-ram-foss-north-2019" }
+    - { title: "Video", url: "https://youtu.be/hQf1DoPNpJc" }
   lastname: "Jongboom"
   title: "17,000 contributions in 32K RAM"
   abstract:
@@ -156,6 +157,8 @@
 - name: "Adam Dunkels"
   short: "adunkels"
   slot: tue13
+  links:
+    - { title: "Video", url: "https://youtu.be/Fy5U1w62Y9Q" }
   lastname: "Dunkels"
   title: "Saving the Day by Stack Smashing a Hundred Streetlights before Sunrise"
   abstract:
@@ -177,6 +180,7 @@
   slot: tue11
   links:
     - { title: "Slides", url: "https://www.slideshare.net/bagder/writing-safe-and-secure-code" }
+    - { title: "Video", url: "https://youtu.be/n55ZJxL04Hk" }
   lastname: "Stenberg"
   title: "Writing safe and secure code"
   abstract:
@@ -188,6 +192,7 @@
   slot: tue7
   links:
     - { title: "Slides", url: "http://www.slideshare.net/chrissimmonds/reducing-the-boot-time-of-linux-devices" }
+    - { title: "Video", url: "https://youtu.be/VpwXj93_yZk" }
   lastname: "Simmonds"
   title: "Reducing the boot time of Linux devices"
   abstract:
@@ -214,6 +219,7 @@
   slot: mon15
   links:
     - { title: "Slides and More", url: "https://hultner.se/Test-faster-fix-more/" }
+    - { title: "Video", url: "https://youtu.be/qKHB0Xr-Yjg" }
   lastname: "Hultner"
   title: "Test faster, fix more"
   abstract:
@@ -241,6 +247,7 @@
   slot: tue9
   links:
     - { title: "Slides", url: "slides/Embracing_FLOSS_as_a_shortcut_towards_agility.pdf" }
+    - { title: "Video", url: "https://youtu.be/LliMCAnMGj0" }
   lastname: "Benito"
   title: "Embracing FLOSS as a shortcut towards agility"
   abstract:
@@ -300,6 +307,8 @@
 - name: "Molly de Blanc"
   short: "mdeblanc"
   slot: tue5
+  links:
+    - { title: "Video", url: "https://youtu.be/L0J60EQZJIM" }
   lastname: "Blanc"
   title: "Insecure connections: Love and mental health in our digital lives"
   abstract:
