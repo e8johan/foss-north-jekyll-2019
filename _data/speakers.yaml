@@ -76,7 +76,7 @@
   slot: mon12
   links:
     - { title: "Slides", url: "slides/Continuously%20Integrating%20the%20Upstream%20Linux%20Kernel%20on%20Hardware.pdf" }
-    - { title: "Video", url: "https://youtu.be/u7nmiBlOwm0" }
+    - { title: "Video", url: "https://youtu.be/doYHZ3zZzOw" }
   lastname: "Roxell"
   title: "Continuously Integrating the Upstream Linux Kernel on Hardware"
   abstract:
