@@ -413,6 +413,8 @@
 - name: "Armin Hafizovic"
   short: "ahafizovic"
   coslot: mon14
+  links:
+    - { title: "Video", url: "https://youtu.be/mFLE1-fb4GE" }
   lastname: "Hafizovic"
   title: "Open Source at SVT"
   abstract:
