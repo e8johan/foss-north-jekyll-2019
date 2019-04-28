@@ -400,6 +400,8 @@
     - { name: "Armin Hafizovic", short: "ahafizovic" }
   short: "jandersson"
   slot: mon14
+  links:
+    - { title: "Video", url: "https://youtu.be/mFLE1-fb4GE" }
   lastname: "Andersson"
   title: "Open Source at SVT"
   abstract:
